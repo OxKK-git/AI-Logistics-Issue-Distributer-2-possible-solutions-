@@ -1,0 +1,621 @@
+incident_id,incident_text,urgency
+THF-001,Stopped at a rest area for a 30-minute break and came back to find the trailer door lock cut and roughly 40 cartons of electronics missing. Police report filed on site.,Urgent
+THF-002,Morning count shows 12 pallets of branded sneakers missing from Bay 6. Gate logs show no outbound order for them and the CCTV feed has a two-hour gap overnight.,Urgent
+THF-003,The seal number on our container at delivery did not match the bill of lading. It looks like a replacement seal and several boxes of laptops are short.,Urgent
+THF-004,Someone drained about 200 liters of diesel from my tanks overnight at the truck stop and pried open the toolbox. The rear cargo door also looks disturbed so I am holding the load.,Urgent
+THF-005,A person in a hi-vis vest collected two pallets of copper wire saying he was from the carrier. The dispatch number he gave is not in our system. Need security review immediately.,Urgent
+THF-006,"Two men on a motorbike flagged me down saying my tire was loose, and one tried the rear doors while I got out to check. I drove off and I am now parked at a police station.",Urgent
+THF-007,Our trailer of pharmaceuticals never reached the distribution center and the driver's phone has been off since last night. GPS last pinged near an abandoned lot outside the city.,Urgent
+THF-008,Found the padlock on dock door 3 cut through when I opened this morning. Forty cases of premium whiskey are gone and the alarm panel was never triggered.,Urgent
+THF-009,A forged release form was used to pick up a container of smartphones from the port yard. The real consignee has confirmed they never authorized any pickup.,Urgent
+THF-010,"I woke up in the sleeper cab to the sound of the trailer being unhooked. The thieves ran when I shouted, but the empty tractor is fine and the loaded trailer is gone.",Urgent
+THF-011,Our delivery from the carrier arrived with the seal intact but 18 cartons of tablets are missing from the middle of the pallet stack. Looks like someone repacked the load.,Urgent
+THF-012,Gate guard reports a driver left the yard with a sealed trailer that was meant to stay for Monday loading. The driver's ID badge was not scanned at exit.,Urgent
+THF-013,Someone stole the GPS tracker and the battery bank from the trailer overnight at the depot. Tracking went dark at 2:10 AM and we cannot locate the unit.,Urgent
+THF-014,At the fuel stop a man approached claiming to be a safety inspector and asked me to open the cargo doors. I refused and called dispatch. He left in a white van without plates.,Urgent
+THF-015,Inventory audit found 60 high-value power tools missing from the locked cage. Cage keys are only held by three supervisors and none of them reported a loss.,Urgent
+THF-016,We received a trailer where the king pin lock was drilled out. Shipment documents show 22 pallets but we counted 19 and the rest of the load is shifted as if it was rummaged through.,Urgent
+THF-017,"While I was unloading at a customer site, someone took my laptop bag and the tablet with all delivery manifests from the cab. The doors were locked so they must have broken a window.",Urgent
+THF-018,Three pallets of infant formula were scanned out of our warehouse by an unrecognized user ID. The ID belongs to a former temp worker whose access should have been revoked.,Urgent
+THF-019,"A bogus dispatcher called me and told me to reroute to a different drop-off address. Something felt wrong so I checked with the office, and they never made that call. Possible hijack attempt.",Urgent
+THF-020,"Our client's 20-foot container of auto parts is missing from the yard. The yard log shows it was parked in row D, but row D is empty and no gate-out record exists.",Urgent
+THF-021,Rear tarp on my flatbed was slashed while parked overnight and several rolls of aluminum sheeting were taken. I only noticed after I started driving and the straps were loose.,Urgent
+THF-022,Camera footage shows two people in dark clothing loading boxes into a car behind building C at 3 AM. About 25 cartons of cosmetics are unaccounted for.,Urgent
+THF-023,The delivery receipt was signed by someone who is not an employee of ours. The 8 pallets of tires were handed over at the gate and the driver cannot describe who accepted them.,Urgent
+THF-024,We think a driver and an insider coordinated a theft. The same truck has had short deliveries three times this month and today's pallet count is 14 short again.,Urgent
+THF-025,"Truck was parked in a lit lot with other drivers around, but when I came back the side curtain had been cut open and about 30 boxes of branded jeans were gone.",Urgent
+THF-026,Received an alert that the trailer door sensor opened at 1:47 AM while the truck was supposed to be stationary. The driver is not answering and the GPS shows no movement.,Urgent
+THF-027,A caller posing as our customer asked the warehouse to hold a pallet of laptops for pickup by a third-party courier. The customer confirmed they never made the request.,Urgent
+THF-028,"Container arrived at our dock with a new bolt seal that is not on the manifest. When we opened it, half of the rolls of fabric were swapped with bags of sand.",Urgent
+THF-029,Spare tires and the jack were stolen from the truck while it sat in the yard over the weekend. We also found the fuel cap pried and the fuel tank siphoned.,Urgent
+THF-030,I was followed for about 20 kilometers by a car that kept flashing lights at me. I did not stop and drove to the nearest toll plaza and requested help from toll security.,Urgent
+THF-031,Our dock supervisor noticed a forklift operator moving two pallets of phones to a corner not covered by cameras. He says it was a re-stack but the pallets are now missing.,Urgent
+THF-032,The trailer I dropped at the customer's yard yesterday has vanished. The customer says they never touched it and the yard guard says he saw a tractor hook it around midnight.,Urgent
+THF-033,We have a break-in at the returns cage: someone cut the mesh and removed 15 refurbished tablets and a box of memory cards. No staff badge scans in that zone overnight.,Urgent
+THF-034,Driver reported that the load of coffee beans was tampered with at an unscheduled stop. The seal is cut and the cargo is about 12 sacks short against the paperwork.,Urgent
+THF-035,"One of our clients received a package of luxury watches with empty inner boxes. The outer carton shows no damage, which suggests theft happened before it was sealed.",Urgent
+THF-036,Security guard at Gate 2 let in a delivery van with a fake company logo and the van left with three rolls of industrial cable. Please review the guard's visitor log.,Urgent
+THF-037,"While parked at the border queue, someone climbed onto the roof and cut the tarp. I found missing cartons of printer cartridges when I did a walk-around at the next checkpoint.",Urgent
+THF-038,"A pallet of vitamin supplements worth a lot of money was reported delivered, but the customer never got it. Delivery photo shows a random doorway that does not match their building.",Urgent
+THF-039,Our fuel card was cloned and used at three different stations while the truck was parked. I only found out when dispatch called about charges for 600 liters I never bought.,Urgent
+THF-040,Reefer trailer was unhooked and taken from the lot overnight with a full load of frozen shrimp. The yard camera was turned away and the gate logbook has a torn page.,Urgent
+THF-041,Stock count shows 9 cartons of prescription medicine have disappeared from the controlled shelf. The access log shows the shelf was opened using a badge that was reported lost last week.,Urgent
+THF-042,"A man waved a fake police badge at me on a quiet road and demanded I open my cargo. I locked my doors, called dispatch, and kept driving to a lit gas station.",Urgent
+THF-043,We found a hidden GPS jammer under the dashboard of one of our rented trucks after it went offline twice on the same route. The cargo of mobile phones is under review for shortages.,Urgent
+THF-044,Customer reports a shipment arrived with the shrink wrap redone and 7 cartons of video game consoles replaced with old magazines. The weight on the delivery slip is also lower than at pickup.,Urgent
+THF-045,"Our yard lights were off when I arrived for the night shift, and the chain on the trailer gate had been cut. About 10 pallets of detergent are missing.",Urgent
+THF-046,"I stopped for lunch at a diner and noticed a man photographing the rear of my trailer. When I returned, the seal was broken. I checked and 20 cartons of alcohol are gone.",Urgent
+THF-047,"A courier arrived at the warehouse with a pickup order for a pallet of cameras, but the order reference had a different customer's name. We held the pallet and suspect a spoofed email.",Urgent
+THF-048,"Somebody stole the catalytic converter from my tractor while I slept in the cab at the depot, and the loud cut woke me. I saw a pickup leave and noted the plate.",Urgent
+THF-049,"Loaded container from the inland depot was missing a seal on arrival at the port, and the paperwork shows the container was sealed at origin. Some cartons of garments are out of place.",Urgent
+THF-050,Four rolls of premium leather were removed from the staging area before loading. Staging is outside the camera view and nobody on shift saw anything unusual.,Urgent
+THF-051,The tracker on our trailer shows it has been parked in an unknown industrial area for 6 hours while the driver says he is on schedule. Driver's phone is switched off.,Urgent
+THF-052,We have had three separate customer complaints this week of tampered seals from the same route. All involve electronics and all arrived between 4 and 5 AM.,Urgent
+THF-053,Someone broke into the pickup truck lockbox and stole the delivery cash from collect-on-delivery orders. Estimated loss is a few thousand rupees along with signed receipts.,Urgent
+THF-054,Ordered 50 pairs of safety boots. Received the shipment today with the box count correct but 18 of the boxes were empty. Seal on the pallet wrap appears reapplied.,Urgent
+THF-055,"A stranger with a clipboard walked into the loading bay, picked up two cartons of spare parts and walked out. Staff assumed he was a vendor. We only caught it on playback.",Urgent
+THF-056,My tractor's side box was pried open during a night stop and the tire-chain set and a handheld scanner with delivery data were taken. The scanner holds customer addresses.,Urgent
+THF-057,Forklift keys were left in the ignition overnight and a pallet jack with a full pallet of paint was gone by morning. The back fence has a visible hole.,Urgent
+THF-058,Customer security team found that the container's door bars were replaced with identical ones with different serial numbers. Cargo of 40 monitors is short by 11 units.,Urgent
+THF-059,Dispatch reports that the driver of unit 417 has stopped responding and the trailer door alert is active. Last known position is a rural road far off the planned route.,Urgent
+THF-060,We caught an employee leaving with a backpack that contained six boxes of small electronics. Security has detained him and we need to reconcile what else may have gone out.,Urgent
+THF-061,I was loading at a customer facility when I noticed another driver slip a carton into his own cab. I flagged it to the guard and the carton had our shipment label on it.,Urgent
+THF-062,We found the roof panel of a trailer cut open from above and about 24 cartons of vitamins removed. It must have happened during the unattended overnight stay at the hub.,Urgent
+THF-063,"A vehicle blocked the road ahead on a quiet stretch and two people approached my cab. I reversed out and escaped, then called the police. The cargo is intact but I need rerouting advice.",Urgent
+THF-064,"Today's delivery of premium baby strollers is 3 units short. The shipping manifest is accurate and signed, and the customer's receiving team sent a photo of a seal that does not match ours.",Urgent
+CLD-001,Reefer unit on trailer 52 shows a return air temperature of 9°C and rising. The load is fresh chicken that must stay under 4°C. I am pulling into the next stop to check the unit.,Urgent
+CLD-002,We opened the container at the dock and the data logger shows 11 hours above 8°C during transit. The vaccine shipment cannot be released until quality assurance reviews it.,Urgent
+CLD-003,Cold room 3 lost power at 2 AM and the backup generator did not start. Several pallets of dairy products sat at 12°C before the night guard noticed.,Urgent
+CLD-004,Driver here. The fridge unit stopped running and the display shows error E47. The trailer is carrying frozen seafood and the temperature is already creeping up.,Urgent
+CLD-005,Client complaint: our ice cream order arrived soft and partially melted. The probe at delivery read minus 6°C when it is supposed to be minus 18°C.,Urgent
+CLD-006,The reefer door gasket is damaged and warm air is leaking into the trailer. Inside reading went from 2°C to 7°C during the last stop and the load is insulin pens.,Urgent
+CLD-007,The compressor in dock fridge B is tripping repeatedly and the reading is now 10°C. We have 30 pallets of yogurt waiting for dispatch and need a technician right away.,Urgent
+CLD-008,Delivery of fresh salmon arrived with the thermal blanket removed and the temperature log showing 14°C. The customer has rejected the full consignment.,Urgent
+CLD-009,I was told to hold at a weigh station for three hours with the engine off because of a documentation issue. The reefer fuel ran out and the trailer with ice cream is warming.,Urgent
+CLD-010,The data logger inside the blood sample cooler reads 12°C and the acceptable range is 2 to 8°C. Delivery to the hospital lab is still two hours away.,Urgent
+CLD-011,A forklift driver left the cold storage doors propped open for more than an hour during a busy shift. The room alarm sounded late and the internal temperature rose to 9°C.,Urgent
+CLD-012,Our produce load of strawberries is showing a high CO2 reading and 8°C inside the trailer. The reefer fan seems stuck and the berries are already softening.,Urgent
+CLD-013,The reefer unit's fuel gauge was faulty and it shut down halfway between cities. The trailer is carrying frozen meat and the reading is now minus 5°C instead of minus 20°C.,Urgent
+CLD-014,Client reports that the temperature indicator strip on the vaccine box turned red. Their pharmacy has quarantined the batch and wants a full chain-of-custody report.,Urgent
+CLD-015,During the afternoon check I found the cold chain staging area at 6°C for pharmaceuticals that need 2 to 4°C. A defrost cycle on the evaporator seems to have stuck.,Urgent
+CLD-016,"Truck broke down on the highway and the reefer is running on the battery backup, which will only last another 90 minutes. Frozen dumplings on board need to stay below minus 15°C.",Urgent
+CLD-017,We received 14 pallets of fresh cut flowers that were supposed to stay at 4°C. Logger shows 19°C for several hours and stems are wilting.,Urgent
+CLD-018,Warehouse manager: the blast freezer setpoint was accidentally changed during a software update. We discovered it at the end of shift with 20 pallets of frozen vegetables at minus 8°C.,Urgent
+CLD-019,Reefer unit alarm is sounding and temperature is 6°C in the cab sensor zone. The load is chilled ready meals and the customer has a strict 4°C acceptance limit.,Urgent
+CLD-020,The thermal packaging on our biologics shipment was punctured and gel packs were warm on arrival. The courier was supposed to guarantee 2 to 8°C for 48 hours.,Urgent
+CLD-021,The pallet of raw milk at the back of the trailer registers 13°C while the front shows 4°C. Airflow is blocked by shifted cartons and the whole load might be compromised.,Urgent
+CLD-022,"Cold room humidity alarm and temperature alarm triggered together. The door seal is iced up and the room temperature is climbing, with frozen poultry at risk.",Urgent
+CLD-023,Our reefer rental was delivered without being pre-cooled. I loaded the cheese as scheduled and only noticed 10°C on the display after sealing the doors.,Urgent
+CLD-024,A power surge tripped the refrigeration circuit at the distribution center. Ice cream and frozen desserts are now at minus 7°C and the electrician is at least an hour away.,Urgent
+CLD-025,The customer's temperature recorder at unloading shows a spike to 16°C that lasted four hours during transit. They are refusing the whole delivery of fresh pasta.,Urgent
+CLD-026,I noticed condensation dripping inside my trailer and the unit is not blowing cold air. Cargo is fresh fruit juice and the sensor reads 11°C and increasing.,Urgent
+CLD-027,We had a late pickup and the driver waited with the reefer door open at the dock for 40 minutes in hot weather. Dairy cartons were above 10°C when I checked.,Urgent
+CLD-028,The reefer's temperature probe on trailer 19 seems to be stuck at 3°C but the product itself feels warm. I used a handheld probe and got 12°C.,Urgent
+CLD-029,Hospital pharmacy says our delivery of chemotherapy medicine arrived with an expired coolant pack and the shipping box was lukewarm to the touch. They need replacement stock today.,Urgent
+CLD-030,The chiller in our warehouse failed overnight and the ripening room for bananas is at 24°C. Fruit has gone past stage 5 and cannot be shipped to the retailer.,Urgent
+CLD-031,"Reefer breakdown in a remote area with no signal, and I walked to a village for a phone. Frozen fish has been sitting without cooling for close to two hours.",Urgent
+CLD-032,Driver noticed the reefer display flashing a low-fuel code with 5 hours left on the route. The trailer holds vaccines and the next fuel stop with a reefer pump is 80 km away.,Urgent
+CLD-033,A door was left ajar on cold storage unit 2 after cleaning and it was not noticed until the next morning. Temperatures hit 15°C and all deli meat has to be assessed.,Urgent
+CLD-034,"The cold chain handover form shows no temperature recorded at the transfer point, and the produce appears warm. Customer suspects a break in the chain between two carriers.",Urgent
+CLD-035,The compressor made a loud noise and then died. Chocolate shipment inside the trailer is at 28°C and starting to bloom. We need an urgent replacement trailer.,Urgent
+CLD-036,Probe at receiving shows 7°C for chilled pharmaceuticals when the label says to keep below 5°C. We have put the pallet in quarantine and are waiting on instructions.,Urgent
+CLD-037,"The reefer was set to Continuous Run, but a technician must have switched it to Start-Stop. The unit idled for hours and the fresh bakery items are at 15°C.",Urgent
+CLD-038,Refrigerated truck 33 hit a long traffic stop and the unit overheated and shut down. Fresh sushi-grade tuna in the trailer is no longer cold and the ice has melted.,Urgent
+CLD-039,We are seeing temperature excursions on 4 of the last 6 loads from the same supplier. The latest has eggs at 12°C and this is a serious pattern we need to escalate.,Urgent
+CLD-040,Our temperature monitoring system alerts show cold storage zone C at 9°C and rising for the past 25 minutes. The compressor is not running and the stock includes biologic samples.,Urgent
+CLD-041,"Customer says frozen burger patties arrived with visible frost crystals and soft patches, which signal thaw and refreeze. They want a root-cause report by end of day.",Urgent
+CLD-042,When I opened the reefer at the retailer it was warm and the unit was off. I think the shore power cable was unplugged at the depot. Load is fresh meat and the temperature is 13°C.,Urgent
+CLD-043,Delivery of frozen berries to our factory arrived at minus 2°C instead of minus 18°C. The driver says the unit warned him but he kept driving to avoid delay.,Urgent
+CLD-044,Cold chain handoff at the airport was delayed for three hours and the cargo sat on an open tarmac in the sun. Vaccines were in insulated boxes but gel packs have lost their chill.,Urgent
+CLD-045,A leak in the refrigerant line was found on the reefer when I arrived at the yard this morning. The unit is not cooling and the trailer is holding dairy for a supermarket chain.,Urgent
+CLD-046,Temperature logger at our dock shows an unexplained 9°C spike lasting 50 minutes inside the pharma cold room. Door sensor says it was shut during that time.,Urgent
+CLD-047,The reefer battery died at the loading dock and the fridge stopped. I noticed after 40 minutes when the dispatcher called. Cargo includes frozen ready meals.,Urgent
+CLD-048,"Customer's QA team measured chilled ham at 10°C upon receipt and rejected the delivery, claiming the driver left the unit on defrost. Photos of the thermostat attached.",Urgent
+CLD-049,A storm knocked out power at the cross-dock and the cold section's generator ran out of fuel. Stored seafood is climbing past safe levels and we are moving it to another site.,Urgent
+CLD-050,The airflow chute inside the reefer collapsed and blocked cold air from reaching the rear pallets. I found frozen pizza at the back soft at minus 3°C.,Urgent
+CLD-051,I picked up a shipment of insulin and the shipper's logger had already recorded 9°C before loading. I need guidance on whether to proceed or reject the load.,Urgent
+CLD-052,We lost refrigeration on the trailer when the diesel supply to the fridge unit froze overnight. Frozen goods have warmed to minus 4°C and the cold start is not working.,Urgent
+CLD-053,Received a call that the trailer with fresh herbs and salad greens has been in the yard without power since last night. Plant staff say the greens are slimy and warm.,Urgent
+CLD-054,"The temperature recorder was set to the wrong profile, so alarms did not trigger. Reviewing data afterward, the dairy pallets were above 8°C for roughly seven hours.",Urgent
+CLD-055,Vaccine fridge at our regional hub was found unplugged by a cleaner and the display shows 14°C. We are checking how long it was off and need to quarantine the stock.,Urgent
+CLD-056,"Driver stuck in a border queue, and the reefer is overheating in the sun. Frozen shrimp shipment is climbing from minus 18°C to minus 9°C and customs refuse to prioritize.",Urgent
+CLD-057,Customer complains that the frozen vegetables arrived with ice clumps and were mushy. Their logger shows 3 temperature spikes above minus 10°C over a single day.,Urgent
+CLD-058,The reefer set point was entered as 8°C instead of minus 8°C by mistake at loading. The mistake was found at delivery and the frozen meat arrived fully thawed.,Urgent
+CLD-059,"Fridge truck door was left unlatched at a pit stop and I only noticed 70 km later. Inside, fresh milk cartons are at 11°C and the load is heading to a school meal program.",Urgent
+CLD-060,"Received lab specimens with a cold pack that was dry and warm. The sender claims the pack was fresh, but the arrival reading is 17°C and the testing window is time-sensitive.",Urgent
+CLD-061,The warehouse cooler fans stopped and the sensors show a slow rise to 8°C. We have several pallets of fresh pasta and cut vegetables and need maintenance on site now.,Urgent
+CLD-062,"I noticed the load of chilled juice has ice crystals on the front pallets and warm cartons at the back, meaning the cooling is uneven. Reefer repair is not available until tomorrow.",Urgent
+CLD-063,Our supplier shipped ice cream in a non-refrigerated truck by mistake. It showed up at 5°C and half the tubs had leaked through the cartons.,Urgent
+CLD-064,"A defective sensor on the reefer failed to detect that the temperature had gone up, so no alarm sounded. When I opened the doors the frozen chicken felt soft at minus 4°C.",Urgent
+DLY-001,Major accident ahead on the national highway has closed all lanes for about four hours. My load of fresh fish must be at the market before 6 AM and I will miss the window.,Urgent
+DLY-002,The truck carrying our production line's critical parts is stuck two days behind schedule. The assembly line will stop tomorrow morning if the parts do not arrive.,Urgent
+DLY-003,Dispatch here. Driver 208 has only 90 minutes of drive time left under hours-of-service rules and is still 200 km from the hospital supply depot. We need a relay driver immediately.,Urgent
+DLY-004,Our container of seasonal toys missed the vessel cutoff at the port and the retailer has a launch tomorrow with a contract penalty for late stock.,Urgent
+DLY-005,Flooding closed the main route and I have been stationary for five hours. The cargo is fresh bread that has a one-day shelf life and the customer is calling every hour.,Urgent
+DLY-006,A tire blowout on a mountain road has left me stranded with no signal. The shipment of emergency medical gloves was supposed to reach the clinic by noon.,Urgent
+DLY-007,"The carrier informed us that our shipment of wedding decor is delayed until next week, but the event is this Saturday. We need another carrier today.",Urgent
+DLY-008,Customs have held our truck at the border for an inspection and we do not know how long it will take. Our client's factory needs this resin by 8 AM tomorrow to avoid a shutdown.,Urgent
+DLY-009,"Strike at the port has halted all outbound trucks, and our perishable fruit cargo is now on day three. Customer demands compensation and may cancel the contract.",Urgent
+DLY-010,The driver reports engine overheating and he has pulled over. Eight pallets of vaccines destined for a rural clinic are on board and the next truck is four hours away.,Urgent
+DLY-011,Carrier missed the pickup slot at our warehouse by 14 hours and now the entire retail promotion shipment will arrive after the sale starts. This will cost us heavily.,Urgent
+DLY-012,A bridge has been closed for emergency repairs and the detour adds 300 km. My cargo is a time-critical organ transport container requiring delivery within six hours.,Urgent
+DLY-013,The truck taking our electronics to the exhibition is stuck in a snowstorm on the pass. Booth setup starts at 7 AM tomorrow and there is no alternative route.,Urgent
+DLY-014,Our client in the automotive sector says the just-in-time seats have not arrived and their line will stop within three hours. The truck is still at a yard in another city.,Urgent
+DLY-015,"We discovered the driver took a wrong turn and is 5 hours off route. The load is chilled dairy with a short window, and the customer is already threatening a chargeback.",Urgent
+DLY-016,I have a driver who failed to show up for his shift and our urgent load of surgical supplies has been sitting loaded at the dock for 6 hours. Need an emergency substitute.,Urgent
+DLY-017,Landslide blocked the only road to the hill town. The pharmacy there is waiting on a shipment of critical medicine and has no stock for patients.,Urgent
+DLY-018,My trailer has a broken axle and the repair truck says it will be 8 hours. The cargo is fresh flowers for a major festival tomorrow and cannot be transferred easily.,Urgent
+DLY-019,The courier we hired for last-mile delivery cancelled at the last minute and the customer's critical server parts must be installed overnight to restore their data center.,Urgent
+DLY-020,An airline cargo bump left our urgent shipment of aircraft spare parts behind. The grounded plane is costing the client heavily by the hour.,Urgent
+DLY-021,Driver is reporting a 7-hour backup after a chemical spill closed the highway. Our load of fresh milk for a school feeding program is due this morning.,Urgent
+DLY-022,Truck carrying dialysis supplies broke down on the highway and the clinic has enough stock for just 24 hours. Please arrange a replacement vehicle at once.,Urgent
+DLY-023,We were told to deliver to the warehouse by 4 PM or the retailer applies a heavy late fee. The truck is still 6 hours out because of repeated roadblocks.,Urgent
+DLY-024,The ferry crossing was cancelled due to high winds and our truck with temperature-sensitive chocolate cannot wait on the dock overnight. Need alternate routing now.,Urgent
+DLY-025,A protest has blocked the main road to the factory and our trucks cannot get in. The production line has already paused and the client wants an emergency plan.,Urgent
+DLY-026,Dispatch error sent my truck to the wrong city and I am 500 km from the correct delivery point. The shipment is a time-critical medical device for an operation tomorrow morning.,Urgent
+DLY-027,The customer says our shipment of event tickets and merchandise is delayed and the concert starts tonight. They need it within three hours or the vendor stall cannot open.,Urgent
+DLY-028,Driver's license expired and he was stopped at a checkpoint and prevented from continuing. The cargo of perishable vegetables is sitting in the sun on the roadside.,Urgent
+DLY-029,Rail line disruption has halted our intermodal shipment of steel coils and the client's construction project has a hard deadline tomorrow with penalty clauses.,Urgent
+DLY-030,"Truck stuck in a river ford after heavy rain and the driver is safe, but the vehicle will need a tow. The vaccine shipment inside must reach the district office by evening.",Urgent
+DLY-031,Our delivery to the airport cargo terminal missed the cutoff by 20 minutes because of a gridlock. The shipment of urgent donor tissue will now miss the flight.,Urgent
+DLY-032,"The carrier called to say they cannot deliver the replacement pump for the water treatment plant until Thursday, and the plant is running on a failing unit with a risk of shutdown.",Urgent
+DLY-033,There is moderate traffic on the ring road this morning and my truck is running about 40 minutes behind. The customer has a flexible dock window until noon.,Standard
+DLY-034,Light rain slowed down the highway and I will reach the warehouse about an hour later than planned. The delivery is for regular stock and the customer has been informed.,Standard
+DLY-035,We had a late loading at the supplier and the truck left 2 hours behind schedule. The consignee does not need the goods until the day after tomorrow.,Standard
+DLY-036,The carrier confirms our pallets will reach the distribution center a day late because of a sorting backlog at their hub. No urgent need for the stock.,Standard
+DLY-037,Roadworks near the city entry have added about 45 minutes to my route. I called the customer and they said they can unload any time before 5 PM.,Standard
+DLY-038,"A holiday weekend caused a backlog at the depot, so our standard shipment will arrive Tuesday instead of Monday. Customer was fine with the revised date.",Standard
+DLY-039,Fog in the morning slowed all trucks on the expressway. I expect to be around 90 minutes late to the retail store but the shelf stock is not urgent.,Standard
+DLY-040,Client emailed to ask why the order tracking has not updated in 24 hours. The carrier says the parcel is in transit and the delivery estimate has moved by one day.,Standard
+DLY-041,"My truck needed an unplanned fuel stop and a quick tire pressure fix, costing about 50 minutes. Should still arrive within the delivery window for the building materials.",Standard
+DLY-042,"Due to a shortage of drivers, our scheduled pickup was moved from Wednesday to Thursday. The client has plenty of inventory and agreed to the change.",Standard
+DLY-043,Weigh station queue was long today and I lost roughly an hour waiting for inspection. The load is furniture and the customer has not set a strict time.,Standard
+DLY-044,The shipment is stuck at a local sorting facility due to a conveyor breakdown. The carrier expects to clear it by tomorrow and a one-day delay is acceptable to the customer.,Standard
+DLY-045,Congestion near the port added two hours to my trip. The container of stationery is not time-sensitive and the yard confirmed they can take it tomorrow if needed.,Standard
+DLY-046,"Our trailer was late being released by the previous consignee, which shifted my departure by three hours. Delivery will arrive tomorrow instead of tonight.",Standard
+DLY-047,A minor accident ahead on the highway caused a one-hour jam. I should still make my delivery of packaged snacks in time for the evening stock check.,Standard
+DLY-048,Carrier updated the ETA for our pallets by two days because of a vehicle shortage. We do not have any urgent customer orders for this stock.,Standard
+DLY-049,"The truck ran into heavy evening traffic through the city, and I will probably reach the drop-off at about 9 PM instead of 7 PM. Receiving team said it was fine.",Standard
+DLY-050,Customer wants to know why their shipment of office chairs has not arrived. Tracking shows a delay at the regional hub but the expected arrival is within 48 hours.,Standard
+DLY-051,"The previous drop took longer than planned, so I am running about 75 minutes behind on the next stop. I have called ahead and the customer is flexible.",Standard
+DLY-052,There was a paperwork mix-up at the gate and I waited 90 minutes for the right gate pass. The load is general merchandise and arrives tomorrow morning anyway.,Standard
+DLY-053,"Intermittent showers closed one lane of the mountain road so I am crawling along. My estimate is a three-hour delay, and the construction supplier says that is fine.",Standard
+DLY-054,A scheduled maintenance window at the cross-dock delayed all outbound loads by half a day. Our customers have been notified and no one has complained so far.,Standard
+DLY-055,Our truck was held up by a local festival procession that blocked the main road for about 45 minutes. The client said to arrive when possible.,Standard
+DLY-056,A shortage of pallets at the origin warehouse pushed our departure back by several hours. The shipment is replenishment stock for a regional store with plenty on hand.,Standard
+DLY-057,The carrier's driver arrived late for pickup and we lost the morning slot. The load is now scheduled for the afternoon trip with no impact to the delivery date.,Standard
+DLY-058,Our parcel is two days late according to the tracking page. The package contains a replacement phone case and I would just like to know when it will arrive.,Standard
+DLY-059,"The vehicle needed a brief brake check at the service station on the way, costing about an hour. Delivery of the paper rolls will still be in the same day.",Standard
+DLY-060,Delay at the loading dock because another truck blocked the lane for two hours. My load of cartons will reach the customer by tomorrow morning instead of this evening.,Standard
+DLY-061,Cargo delayed at the customs hold because a document needed re-signing. The shipment is routine and the importer has said a short wait is acceptable.,Standard
+DLY-062,The delivery window at the supermarket was missed because of a long queue ahead of me. The store manager has re-booked me for tomorrow at 8 AM.,Standard
+DLY-063,"Sorting error at the carrier's hub sent our parcels to the wrong depot, adding a day to transit. They are rerouting now and the client has been updated.",Standard
+DLY-064,Late evening roadwork closed two lanes and I will deliver tomorrow morning instead of tonight. The warehouse manager said it was no problem as they are closed after 8 PM.,Standard
+MSP-001,Ordered 24 units of the blue 500 ml bottles but received the green 750 ml version instead. The packing slip says blue 500 ml so it seems a picking error.,Standard
+MSP-002,Picker grabbed SKU 4471-B instead of 4417-B on order 88213. The two items look similar and sit next to each other in aisle 14. Customer received the wrong filter size.,Standard
+MSP-003,Our delivery contained 10 cartons of chocolate biscuits but we ordered 10 cartons of oat biscuits. The label on the cartons shows the right item code for the wrong product.,Standard
+MSP-004,Customer received a size large jacket when they ordered a medium. Box label shows correct size but the product inside is wrong. Please arrange an exchange.,Standard
+MSP-005,I found two pallets staged for the wrong customer. One of them has our client's labels but contains another client's goods. Caught it before loading.,Standard
+MSP-006,"Order was supposed to contain 50 boxes of AA batteries but only 15 arrived, with the packing list marked complete. Seems the picker stopped short.",Standard
+MSP-007,The shipment included 8 extra cartons of hand sanitizer that were not on the order. We want to return them and confirm the correct quantity for the original items.,Standard
+MSP-008,We received left-handed scissors instead of right-handed for the whole batch of 200 units. Item numbers differ by one digit and likely got mixed up at the pick face.,Standard
+MSP-009,Received a box of 12 ceramic mugs in the wrong color for the third time this month. The picker seems to confuse ivory with white. Our shelves are now mixed.,Standard
+MSP-010,Pick list called for 30 units of printer paper A4 but the warehouse sent A3. The error was noticed at the customer's dock and they are asking for replacement.,Standard
+MSP-011,Two orders to different clients were swapped at the packing station. Client A got Client B's stationery and vice versa. Please arrange reverse pickups.,Standard
+MSP-012,The pallet delivered had 40 cases of sparkling water instead of still water. We need the correct goods by end of the week to restock for an event.,Standard
+MSP-013,The picker pulled stock from the wrong lot and the items shipped have an earlier batch number than what the customer's contract requires. They want a swap.,Standard
+MSP-014,Customer ordered 6 units of a wireless mouse but received 6 wired mice. The model number on the outer box matches wired. Sending a photo of the packing slip.,Standard
+MSP-015,The goods received had the correct item name but the wrong flavor variant on 15 of the cartons. We found the mismatch when scanning and have quarantined those units.,Standard
+MSP-016,"During audit I found that bin location C-12 contains the wrong product, probably put there during a recent re-slot. That explains a run of mispicks this week.",Standard
+MSP-017,We shipped the order with one item missing: the user manual kits for the machines. The picker marked the line as picked but the item remained on the shelf.,Standard
+MSP-018,"Hi, my order came with the wrong phone case model. The listing says iPhone 14 but the cases fit a Samsung. Please send the correct ones or a refund.",Standard
+MSP-019,The cartons we received had the right outer label but contained a different version of the product with an older firmware. The client is unhappy about compatibility.,Standard
+MSP-020,Our dock team scanned a pallet of 48 units at outbound but the picked count was actually 40. The WMS shows complete while the physical count came up short.,Standard
+MSP-021,The customer ordered 100 pieces of M8 bolts and received M10. The part numbers are close and we think the bin labels were swapped on the shelf.,Standard
+MSP-022,Delivery contained the correct quantity but the wrong product color for two lines. Black instead of navy on 12 jackets and grey instead of white on 20 shirts.,Standard
+MSP-023,"A picker mixed up two orders from the same customer and the pallet had half of each, so the delivery was incomplete for both purchase orders.",Standard
+MSP-024,Received a mixed carton labeled as laundry detergent that actually contained fabric softener. The barcode on the box was correct but the contents were wrong.,Standard
+MSP-025,The order shows we should receive 3 boxes of A4 envelopes but the shipment has 3 boxes of A5. Please arrange for a swap and confirm the right size is in stock.,Standard
+MSP-026,"We noticed that picked items for a store replenishment included last season's packaging, even though the order specified the new design. Some stock must have been left in the pick bin.",Standard
+MSP-027,Warehouse worker here. I picked from the wrong shelf because the label was torn off the bin. I only found out when the packing station scanned a different SKU.,Standard
+MSP-028,The paint order arrived but two of the cans are matte instead of glossy. The pallet label says glossy so it seems the picker took the wrong tins from the shelf.,Standard
+MSP-029,A customer in our network received someone else's order of garden tools. We have the other customer's label on the invoice. Need a return pickup and the right goods sent.,Standard
+MSP-030,I opened the carton expecting 24 cans of tomato paste and found 24 cans of tomato puree. Packaging looks similar and nothing on the outer box shows the difference.,Standard
+MSP-031,The shipment included two units of a discontinued model when we ordered the latest version. The picker used the old stock in the back. Please replace the pair.,Standard
+MSP-032,"Order 55120 was packed with the wrong accessory kit. Instead of a power adapter for EU plugs, we received UK ones. Please send the correct kits.",Standard
+MSP-033,"Counting at the receiving dock, we got 36 cartons but the invoice says 48 and the packing list says 48. Short pick by 12 cartons.",Standard
+MSP-034,The boxes of A-grade tiles that came are labeled B-grade inside. The customer needs a uniform batch for a building project and wants a replacement.,Standard
+MSP-035,Wrong hose length was picked for 15 units: 10 m instead of 15 m. The label on the bin was swapped. Customer opened the box and discovered it right away.,Standard
+MSP-036,The barcode scanner accepted the wrong item because two products share the same barcode in the system. That has led to several mispicks this week.,Standard
+MSP-037,"We got twice as many pillows as we ordered, but half were the wrong size. Picking looks sloppy on this order and the packing list is not helpful.",Standard
+MSP-038,Customer ordered a left-hand drive wiper blade set but received the right-hand drive version. Product codes differ by only a suffix and the picker missed it.,Standard
+MSP-039,We received seven boxes of copier toner but the order was for black toner and the box has color cartridges. Please arrange a swap and credit for the difference.,Standard
+MSP-040,"Our client got the right product in the wrong language edition, Spanish instead of English. The ISBN on the label is different and the picker never checked it.",Standard
+MSP-041,The order of 20 gift sets contained only 17. Pick sheet shows all lines done and the shortage was only spotted when the customer counted at the store.,Standard
+MSP-042,I found shoes of the wrong size in a box labeled size 9. The box holds size 7. A returned item may have been put back into the wrong box and picked again.,Standard
+MSP-043,We shipped a laptop with a US keyboard layout to a customer who ordered the UK layout. The unit SKUs were adjacent in the bin and the picker missed the suffix.,Standard
+MSP-044,A picker used the wrong unit of measure and sent 10 cases instead of 10 individual items. The customer received a huge delivery and needs to send most of it back.,Standard
+MSP-045,My order of 12 reams of paper arrived as 12 reams of recycled paper. I had asked for virgin white paper for printing client work. Packing slip shows the right item.,Standard
+MSP-046,"Customer got the wrong cable length: 1 m instead of 3 m. Bin labels at the picking location show 3 m but the cables inside are 1 m, so a restock error is likely.",Standard
+MSP-047,We shipped the order to the right customer but the wrong branch office. Two addresses with similar names were mixed up in the system and the packing team did not verify.,Standard
+MSP-048,"Our scan shows that picker ID 77 had four mispicks in the same shift, all in the vitamins aisle. Might be a layout issue or a lighting problem there.",Standard
+MSP-049,The returned goods were restocked into the wrong location and then picked for a new order. The customer opened it and found used items instead of new ones.,Standard
+MSP-050,"Box contained 12 ink cartridges but for a different printer model. The order required the 305XL type, and we got 303XL. Customer needs correct ones this week.",Standard
+MSP-051,Wrong expiry date on shipped stock: we received cartons expiring in two months when our contract needs at least six months of shelf life. This needs a swap.,Standard
+MSP-052,On the order we asked for 5 black office chairs and got 5 grey ones. The photo on the packing slip shows black. Please advise on exchange process.,Standard
+MSP-053,Pick team sent a half pallet of a different brand of cat food than specified. The customer only noticed when stocking the shelves and asked for a replacement.,Standard
+MSP-054,"The order included an extra, unrequested item: a box of cleaning wipes. We did not order it and would like to know whether we are being billed for it.",Standard
+MSP-055,A pallet destined for our Pune store went to the Mumbai store because the labels were switched at the staging lane. Both stores have been told and are arranging a swap.,Standard
+MSP-056,Customer received 2 units of the 256 GB model instead of the 128 GB model they paid for. The pick list was correct but the picker pulled the wrong carton.,Standard
+MSP-057,"The kit we received is missing the left side panel, but the packing list says all parts are included. The picker likely skipped a component bin.",Standard
+MSP-058,"Today's shipment contained the right items in the wrong pack size. We ordered 6-packs and received 12-packs, so our shelf quantities are now off.",Standard
+MSP-059,I noticed that two nearly identical models of drill bits were co-located in the same bin and the labels were faded. Several mispicks have come from there recently.,Standard
+MSP-060,"We were shipped the sample size when we ordered the full-size product. Unit price on the invoice shows full price, so we expect a correction or credit.",Standard
+MSP-061,The wrong set of parts was loaded for the second time on this client's order and they asked us to review our checking process before dispatch.,Standard
+MSP-062,"When unpacking, I realised the shirts were the right style but the wrong fit, slim instead of regular. The tags are correct, but the shirts themselves are slim fit.",Standard
+MSP-063,Orders 3318 and 3319 were packed in each other's cartons. Both customers ordered different quantities of the same product and now both received the wrong counts.,Standard
+MSP-064,Customer reports they received an item with the wrong plug type for their country. Our system lists two versions under the same SKU and the picker took the wrong one.,Standard
+DMG-001,Several cartons on the bottom of the pallet are crushed and the top layers have leaned into each other. Contents appear intact but the outer boxes look unsellable.,Standard
+DMG-002,Delivered pallet had torn shrink wrap and three cartons with water stains. I suspect it was left in the rain at some point. The products inside look dry.,Standard
+DMG-003,Four of the glass jars in the box were cracked and the packaging has no padding. The carton shows a clear dent in one corner from a drop.,Standard
+DMG-004,"Our client received a pallet with a broken wooden base and boxes sliding off one side. Forklift lifted the pallet and cartons fell, so some boxes are now dented.",Standard
+DMG-005,The outer carton is badly torn and the inner box is open. The item itself seems fine but the customer does not want to accept a package with visible damage.,Standard
+DMG-006,I found a corner of a carton punctured by a forklift tine during loading. Looks like the product inside is a bit scratched but not broken.,Standard
+DMG-007,The cartons of tiles arrived with crushed corners and several tiles chipped. The pallet was stacked too high and a heavier load was placed on top.,Standard
+DMG-008,Delivery of paper rolls was damaged on the edges because the wrapping was too thin. The outer layers are unusable and the inner layers are intact.,Standard
+DMG-009,About 20 bags of flour on the pallet have punctured corners and leak a bit of powder. The pallet needs to be repacked before putting on the shelf.,Standard
+DMG-010,The box of ceramic plates was dropped during unloading and we heard a crack. We opened it and found 5 plates broken. Photos of the carton and the plates are attached.,Standard
+DMG-011,Carton of tablets arrived with the outer box crushed on one side. The blister packs inside look fine but the labels are creased.,Standard
+DMG-012,"There was a strong smell of dampness from the pallet, and the bottom cartons are soft and wet. Moisture seems to have come through from the trailer floor.",Standard
+DMG-013,Strapping on the pallet snapped in transit and the load shifted. Several cartons ended up crushed against the trailer wall. Contents of most look undamaged.,Standard
+DMG-014,Outer packaging of the washing machine is dented near the control panel and one corner of the foam is crushed. The customer wants it checked before accepting.,Standard
+DMG-015,Plastic drums arrived with visible dents and one has a cracked lid. No visible leak but the seal might be compromised. Please advise on acceptance.,Standard
+DMG-016,The pallet of canned goods came with several cans dented and a few boxes ripped. The cans are sealed but the labels are scuffed so they might not be shelf-ready.,Standard
+DMG-017,Cartons from the supplier were packed without edge protectors and arrived with bent corners. A few TVs show visible cosmetic damage on their boxes.,Standard
+DMG-018,The label on several cartons is smeared and unreadable because of moisture. The goods inside appear fine but we cannot scan them into the system.,Standard
+DMG-019,A pallet of glass bottles has broken dividers and about 10 bottles have chipped necks. Cartons are sticky from the spilled contents of broken ones.,Standard
+DMG-020,Our delivery of furniture arrived with scuffed packaging and a torn corner on one box. The product inside has a small scratch on the panel.,Standard
+DMG-021,Box of fragile figurines arrived with the tape peeled open and the foam pieces are crushed. Two figurines have chipped bases and the customer asks for a refund.,Standard
+DMG-022,The cardboard pallet slip sheet tore during the transfer and cartons on the lower layer were squashed. About 15 boxes are deformed but the goods look okay.,Standard
+DMG-023,A forklift fork punctured the side of a carton holding bottled sauces. Two bottles are leaking onto the pallet and the cartons below are sticky.,Standard
+DMG-024,Received a pallet of mattresses with torn plastic covers and dirt marks. The mattresses themselves look fine but the customer will not accept them in this state.,Standard
+DMG-025,"When unloading, I noticed one side of the pallet was crushed in and the straps were loose. It seems the load was top-heavy and shifted in transit.",Standard
+DMG-026,"The packaging of the electronics box has a large dent in the middle and visible tape marks, suggesting it was opened. Seal tape is not original but nothing is missing.",Standard
+DMG-027,Several sacks of cement are torn and spilled on the trailer floor. The remaining bags are intact but the pallet is dusty and the customer has to re-bag them.,Standard
+DMG-028,Outer cartons on the pallet show water damage along the bottom edge. A roof leak at our transit warehouse might be the reason. Items inside are still dry.,Standard
+DMG-029,Cartons of toys were crushed when a heavier pallet was stacked on top. About 8 boxes are caved in and cannot be put on the shelf in that condition.,Standard
+DMG-030,"One corner of the pallet is crushed and the stretch wrap has split, leaving the cartons exposed. The goods inside are plastic containers and appear intact.",Standard
+DMG-031,Chip bags on the pallet were crushed because the cartons collapsed under weight. The product is not harmful but customers will not buy crumbs.,Standard
+DMG-032,A box of picture frames arrived with broken glass in two of the frames. The box was labeled fragile but has no cushioning and shows a hole in one side.,Standard
+DMG-033,Product boxes were soaked on one side during unloading in the rain. The cartons are weak and the barcodes are unreadable but the items inside are dry.,Standard
+DMG-034,"The wooden crate for the lab equipment has a split on one side and a missing slat. The instruments look fine, but the customer wants an inspection before signing.",Standard
+DMG-035,The pallet of detergent powder boxes has several torn boxes and powder is leaking in the trailer. Nothing hazardous but we need to clean and repack the stock.,Standard
+DMG-036,Our delivery of cosmetics had cartons with crushed corners and a few lipsticks rolled out and broke. The damage is mostly cosmetic but customers expect pristine packaging.,Standard
+DMG-037,The outer packaging of three air conditioners is torn open and the foam is missing. We do not know if the units were damaged but we are keeping them aside.,Standard
+DMG-038,"Hi, the parcel I received has a huge dent and the box is half open. The item inside, a ceramic vase, is intact but the packaging looks like it was dropped.",Standard
+DMG-039,Some of the cartons were visibly flattened at the corners due to poor stacking. The goods inside are canned drinks and a few cans have dents on their rims.,Standard
+DMG-040,The delivery of books arrived with damp and warped covers on about 30 copies. The pallet wrap had a tear and the boxes absorbed moisture during transit.,Standard
+DMG-041,The pallet has a visible lean and the middle cartons have bowed outward. Corner boards were missing and the stretch wrap was too loose to hold the load.,Standard
+DMG-042,Large cartons of curtains arrived with grease stains from the previous freight in the same trailer. The fabric is still wrapped in plastic but the boxes look dirty.,Standard
+DMG-043,A set of crates holding glass bottles shows broken dividers and chipped bottles. The crates were not fixed to the pallet and slid around during transport.,Standard
+DMG-044,Corrugated boxes holding the bicycle frames are scuffed and torn. A few frames have paint chips from rubbing together without protective padding.,Standard
+DMG-045,Seven boxes at the top of the pallet were crushed by the trailer ceiling bars because the load was stacked too tall. Contents are shampoo bottles and several are cracked.,Standard
+DMG-046,"The bottom layer of pallet cartons absorbed moisture and the tape has peeled. Boxes are opening and the goods inside, school notebooks, are slightly warped.",Standard
+DMG-047,Customer says outer cartons of the printers were flattened at one end and the foam inserts broke. The printers power on but the packaging cannot be resold as new.,Standard
+DMG-048,"During unloading, a pallet tipped and about a dozen boxes fell to the ground. The corners are crushed and a couple of boxes of ceramics sound broken when shaken.",Standard
+DMG-049,"The package arrived with the tape split and cardboard torn, exposing the product. The item is a fabric bag so there is no structural damage but it is dirty.",Standard
+DMG-050,"We noticed that a batch of cartons was packed without enough void fill, so the bottles inside were rattling. Two bottles have chipped caps from knocking together.",Standard
+DMG-051,Stacked pallets in the warehouse leaned and the cartons on the bottom row were squashed. No product damage yet but the outer boxes are flattened and look unsellable.,Standard
+DMG-052,The shrink wrap on our pallet was cut during inspection and not reapplied. Cartons shifted on the road and some are bent. The product seems okay.,Standard
+DMG-053,The batch of ceramic tiles had cracked corners on about 10 percent of the boxes. The pallet was transported without corner protection and the straps were too tight.,Standard
+DMG-054,Packaging on the bakery boxes was crushed and the lids popped open. The cakes inside are squashed and the customer rejected the order based on appearance.,Standard
+DMG-055,A drum of cooking oil has a dent along the side and a small weeping at the bung seal. There is only a sticky patch but we want to inspect the whole pallet.,Standard
+DMG-056,Some cartons arrived with the bottom flaps open because the tape was weak. Items fell out inside the trailer and a few were scratched but nothing is broken.,Standard
+DMG-057,"We found oil stains on several cartons, likely from a leaking container stored nearby. The goods inside, notebooks, are wrapped and appear fine but the cartons look dirty.",Standard
+DMG-058,The kit box for a flat-pack wardrobe arrived with a split side and some panels poking out. Panels have chipped edges and the customer wants to know about replacement.,Standard
+DMG-059,Wooden pallet broke during the lift and a few cartons of juice boxes dropped and burst. Sticky juice is everywhere and nearby cartons are wet.,Standard
+DMG-060,"The delivery driver left a carton outside in the rain and the bottom is soaked and sagging. The item inside, a small appliance, has a damp manual but looks fine.",Standard
+DMG-061,Received a case of wine where one carton partition was torn and two bottles had labels scuffed from rubbing. The liquid is intact and the bottles are sealed.,Standard
+DMG-062,Three cartons of stationery arrived with the top flaps torn off and a couple of items missing their outer wrapping. Everything is accounted for but looks shabby.,Standard
+DMG-063,"My package of kitchenware arrived with a crushed box and bent edges. One pan has a dent on the rim, not major, but I would like a partial refund.",Standard
+DMG-064,The pallet of snack boxes was dropped from the forklift and the lower cartons burst open. Packaging is torn and about a quarter of the bars are crushed or scuffed.,Standard
+THF-065,Pallet of 25 gaming laptops was scanned out at 11 PM by a user account nobody recognizes at the front office. The screen shows the pallet is gone but no truck was booked for that hour.,Urgent
+THF-066,My trailer lights were off when I got back from the shower block at the truck stop and the rear doors were hanging open. Cartons of cigarettes are gone. Calling the police now.,Urgent
+THF-067,Customer says the container we delivered had a different lock than the one we fitted at origin. Opened it and found nearly a third of the sacks of cashew nuts missing.,Urgent
+THF-068,An unknown man in a delivery uniform walked out of the dock with a hand truck carrying six boxes of smartwatches. The guard thought he was a courier and did not check his pass.,Urgent
+THF-069,The company fuel card was used at a station 400 km from where my truck was parked all weekend. Someone copied the card and 450 liters were charged.,Urgent
+THF-070,"Cargo of branded handbags is short by 28 units. The pallet wrap looks fresh, but the label on it is from a different roll than ours, so somebody opened and rewrapped it.",Urgent
+THF-071,"Found the lock on the yard container cut with bolt cutters when the morning shift arrived. About half of the contents, car stereos and amplifiers, have been removed.",Urgent
+THF-072,"Two cars boxed me in at a lonely gas station and men started unstrapping the tarp on my flatbed. I leaned on the horn and a station attendant came out, and they ran.",Urgent
+THF-073,The driver of a rented truck has not returned the vehicle and is not answering his phone. The truck was loaded with 300 cases of imported olive oil.,Urgent
+THF-074,"Our gate system shows the same truck plate entering twice in ten minutes, but the plate belongs to a vehicle that was in the workshop. Likely cloned plates, and a load of tyres left with it.",Urgent
+THF-075,Seal on the container door was intact but the hinge pins had been taken out and put back. Eight cartons of perfume are missing from the back rows.,Urgent
+THF-076,"A man phoned our dispatch pretending to be the receiving warehouse and asked to change the delivery address mid-route. Dispatch refused, but we think he knew our load details.",Urgent
+THF-077,Data from the trailer tracker stopped at midnight and the driver reported he was asleep. The tracker was found later in a ditch near the highway and the trailer is empty.,Urgent
+THF-078,My toolbox on the tractor was forced open and the spare satellite phone and cash float taken while I was inside the diner. The cab door lock is also scratched.,Urgent
+THF-079,"Reviewing the camera footage, a night-shift worker puts two cartons of earbuds into his own bag at the end of the aisle. Please escalate to security and HR today.",Urgent
+THF-080,"The pallet of printer toner is not where the system says it is. Bay 9 is empty and the cycle count last week showed it present, so it left in the last five days.",Urgent
+THF-081,"A truck arrived at our gate with a pickup order that looked authentic, but the order number was one digit off from a real one. We stopped him and he drove away quickly.",Urgent
+THF-082,A shipment of 120 mobile phone batteries was marked delivered by the courier app. The customer reports receiving only an empty tote with the cable ties cut.,Urgent
+THF-083,"During a stop at the weighbridge somebody must have lifted the tarpaulin edge, because I now have a gap in the stack and a row of copper pipes missing at the rear.",Urgent
+THF-084,One of our drivers reported a motorcycle following his truck from the depot for 15 minutes and then pacing him on a quiet stretch. He drove into a police compound to wait.,Urgent
+THF-085,"I got a text from an unknown number saying my load was already collected, but I still have the truck and all the goods. Someone may be trying to divert the freight.",Urgent
+THF-086,"Our high-value cage log shows entries by badge 2231 at 3:12 AM, but that employee was on leave and in another country. The badge was cloned or used by someone else.",Urgent
+THF-087,"The right rear door of the trailer was open when I got back from the weigh bridge, with a ratchet strap lying on the ground. A pallet of electric kettles has disappeared.",Urgent
+THF-088,We discovered that the storage container behind our depot has been used as a drop-off for stolen goods. Several unmarked cartons with our labels have been sitting there.,Urgent
+THF-089,Two tires and the battery were removed from one of our parked trailers in the long-term yard. Wheel nuts were left in a pile and the yard camera was knocked out.,Urgent
+THF-090,"Client rang to say the pharmaceutical consignment arrived light by 5 boxes, and the seal number on the tag is not what we sent. They want an investigation before signing.",Urgent
+THF-091,Someone climbed the back fence overnight and took a stack of aluminum ladders from the outdoor racks. There is a footprint trail and a torn piece of fence mesh.,Urgent
+THF-092,"The driver says a roadside inspector pulled him over in an unmarked car and made him open the trailer, then stood too close to the cargo. He left without any paperwork.",Urgent
+THF-093,Our weekend security patrol found a side door to the warehouse propped open with a brick. Nobody authorized weekend entry and a pallet jack with six boxes of drones is missing.,Urgent
+THF-094,"A second set of keys for the forklift cage has gone missing from the supervisor's office, and a stock check now shows 16 power drills unaccounted for.",Urgent
+THF-095,I parked the truck at a motel for the night and in the morning the fuel cap lock was drilled out and the tank is almost dry. Worried the trailer was also entered.,Urgent
+THF-096,The paperwork for a pickup at our dock was emailed from a webmail address that imitated the real customer's domain. The truck loaded 14 pallets before anybody noticed.,Urgent
+THF-097,A reefer trailer carrying premium beef was left unattended at a gas station. When the driver came back the doors had been opened and several boxes of steaks were gone.,Urgent
+THF-098,A security officer caught a person photographing the layout of our loading dock and the license plates of arriving trucks. He walked away fast when approached and may be scouting for thieves.,Urgent
+THF-099,"Pallet scan shows 40 cartons of beauty products received, but the actual receiving count was 32, and the missing ones were last signed for by the carrier driver at the gate.",Urgent
+THF-100,Dashcam footage shows a van reversing up to my trailer at 4 AM while I slept. Two people got out and tried bolt cutters on my padlock before my horn scared them off.,Urgent
+THF-101,My load of solar panels was found with its customs seal replaced by a plain plastic tie at the transshipment depot. The count shows 12 panels missing.,Urgent
+THF-102,"We got a complaint that 30 percent of the cartons of gaming controllers contain bricks wrapped in bubble wrap. Packing at our end was normal, so it happened in transit.",Urgent
+THF-103,An armed group stopped the convoy on a rural road and forced two of our trucks to unload part of their cargo. Drivers are safe but shaken and have been told to wait for the police.,Urgent
+THF-104,The rear camera and the GPS unit were ripped from the trailer in the yard in the early hours. The ignition panel of the tractor is also pried open. Please send security.,Urgent
+THF-105,"During receipt of goods, one pallet had a re-glued top carton and the barcode label inside had been scratched off. Possible pilferage by the carrier.",Urgent
+THF-106,A temp worker walked off site with a case of lithium batteries in his lunch bag. The guard stopped him at the exit and the case still has our warehouse sticker on it.,Urgent
+THF-107,"Dispatch told me to leave the trailer at a different yard than usual. A man at the gate had my trailer number and asked for the PIN code, and I think this is a scam.",Urgent
+THF-108,"Tire shop employees took photos of the load inside my open trailer during a flat repair, and later a pickup truck tailed me for several kilometers. I am parking at a police station.",Urgent
+THF-109,"The mailroom reported that a box of cheque books due for courier pickup is no longer in the secure cabinet. The cabinet's lock appears undamaged, so someone had a key.",Urgent
+THF-110,"A quantity of aluminum coils is short by two full rolls at the customer's weighbridge compared with our loading weight, and the strapping looks cut and re-tied.",Urgent
+THF-111,"The fuel pump at our depot shows 1,800 liters less than the tank records after the weekend. The pump seal is broken and the log book page for Saturday is blank.",Urgent
+THF-112,"I was in the cab filling in my log when somebody opened the passenger door, grabbed my backpack, and ran. My trip sheet, phone and the load documents were inside.",Urgent
+THF-113,Truck 612 was reported by a customer as arriving with its trailer doors not locked properly. A count revealed 19 cases of whisky short and a broken seal was lying in the glovebox.,Urgent
+THF-114,The container yard at the port reported that one of our units was released to a driver whose ID does not match any authorised list. The container's location is now unknown.,Urgent
+THF-115,"Two men in work overalls took a wall-mounted AC unit worth a lot from the showroom loading zone, claiming a maintenance job. No work order exists for them.",Urgent
+THF-116,Someone replaced two pallets of branded footwear with pallets of old cardboard stacked behind a front row of real boxes. Delivered stock was only checked at the front.,Urgent
+THF-117,Our carrier says the trailer was stolen from their yard and recovered empty 80 km away. Our consignment of tablets for a pharmacy chain was on it.,Urgent
+THF-118,"I think my dispatcher's email account has been hacked, because new pickup instructions came with a different address, a rushed deadline and a request not to call. I stopped and verified by phone.",Urgent
+THF-119,Seven cartons of mobile phones were found missing after a pallet changed hands between two carriers at a cross-dock. Neither carrier has a signed count at the transfer.,Urgent
+THF-120,The pharmacy storeroom door was found unlocked on Monday morning and the narcotics register shows two boxes missing. Security has secured the room and the police have been called.,Urgent
+THF-121,My fuel tank and the auxiliary tank were both siphoned while I slept at a rest area. The thief also took a toolkit and the door of the tank cover is bent.,Urgent
+THF-122,"Our client's goods show as delivered on the portal with a signature that looks like a scribble, but the premises were closed that day. We suspect somebody collected the pallet by fraud.",Urgent
+THF-123,A fake tow truck driver offered to move my broken-down rig and asked me to hand over the trailer keys. I refused and phoned dispatch. The whole thing seemed set up.,Urgent
+THF-124,"At loading, a stranger in a company jacket tried to put an extra pallet onto my truck that was not on the manifest. When I questioned him he left. Could be an attempt to smuggle something.",Urgent
+CLD-065,The reefer unit on my truck keeps cycling off every ten minutes and the box temperature has crept from minus 18 to minus 11. I am carrying ice lollies for a supermarket and pulling over to call the reefer service.,Urgent
+CLD-066,The temperature recorder printout from the delivery of yogurt shows a flat line at 12 degrees for the last five hours. The receiving manager refused the load.,Urgent
+CLD-067,"A power cut at the depot lasted 3 hours. The backup battery on the cold room alarm died as well, so nobody was alerted until the morning, and the room read 15°C.",Urgent
+CLD-068,Vaccine boxes arrived with the indicator window showing the exposure icon. Their cold box had no ice packs left and the courier cannot explain the gap.,Urgent
+CLD-069,"Our frozen fish container was off power for 14 hours at the port because the plug-in point was faulty. Core temperature is minus 3 and rising, and the importer wants an inspection.",Urgent
+CLD-070,My reefer ran out of fuel outside a small town. The unit shut down at 3 PM and I walked 2 km to buy diesel. The ice cream tubs in the back have gone soft by now.,Urgent
+CLD-071,The cold room door at the supermarket distribution site was left open during a shift change. Fresh meat pallets were at 11°C when the supervisor came in.,Urgent
+CLD-072,We received chilled ready meals on a van that had no cooling at all. The driver admitted the unit was switched off to save fuel. Probe at receiving read 14°C.,Urgent
+CLD-073,The unit is blowing warm air and the display flashes an alarm code. I have a pallet of chilled pharmaceuticals on board and the nearest depot is 3 hours away.,Urgent
+CLD-074,"Customer complaints this week all mention the same thing: thawed prawns that smell off. Check the reefer on the route 7 trailers, which seems to run at plus 2 instead of minus 18.",Urgent
+CLD-075,An insulated shipper with plasma units reached the hospital with the temperature tag showing 11°C. They need to destroy the units and ask for urgent replacement.,Urgent
+CLD-076,Breakdown of the main compressor in the banana ripening room. The ripening schedule is lost and the fruit is already turning yellow too fast.,Urgent
+CLD-077,"I opened the trailer at the destination and found water pooling on the floor. The defrost drain was blocked and the evaporator iced up, so cooling failed halfway.",Urgent
+CLD-078,"A refrigerated truck's thermometer had been stuck at 4°C for the whole journey, but the actual cargo was at 13°C when we tested it with a handheld probe.",Urgent
+CLD-079,The warehouse generator did not take over during the blackout. The cold rooms for dairy were without power for 90 minutes and the temperature graph climbs steeply.,Urgent
+CLD-080,There is condensation dripping from the ceiling of our freezer corridor and the rear freezer room alarm shows minus 6°C. The door seal looks iced shut.,Urgent
+CLD-081,A cargo of fresh herbs shipped by air arrived with the gel packs fully melted. The airline left it on the apron for hours and the leaves are black and limp.,Urgent
+CLD-082,Our blood bank transport box lost its charge and displayed an error on the way. Samples are inside and the driver is 40 minutes from the lab.,Urgent
+CLD-083,The driver forgot to switch on the reefer after the last drop and drove two hours. Frozen dumplings are at minus 4°C and the bags have started to sweat.,Urgent
+CLD-084,The cold storage monitoring app has shown a red alert for zone 4 since midnight and nobody acknowledged it. The reading is 9°C where we need below 5°C for the dairy desserts.,Urgent
+CLD-085,A reefer trailer arrived at our site with its door unsealed and the box at 10°C. The driver says the unit was fine at pickup and blames the shipper for loading hot pallets.,Urgent
+CLD-086,We stored a batch of vaccines in a fridge that was damaged by a power spike. The data logger shows it climbed above 8°C for 4 hours overnight.,Urgent
+CLD-087,A defective refrigerant valve was found on the reefer after a long haul. Frozen chicken inside is at minus 7 and the customer wants to know if it is safe to receive.,Urgent
+CLD-088,Half the pallets of the supplier's ice cream shipment were frosted over inside the carton. This indicates thaw and refreeze cycles somewhere in the chain.,Urgent
+CLD-089,"Chocolate bars shipped in summer arrived melted into the foil. The truck used was a normal box van, not a temperature controlled one, despite our instructions.",Urgent
+CLD-090,The air chute in the reefer was torn and cold air short-circuits back to the unit. The front pallets are at 2°C and the back ones are at 12°C.,Urgent
+CLD-091,The breakers tripped overnight at the pharma warehouse and freezer B stayed off for around five hours. We have biological samples inside and need a decision on whether to quarantine them.,Urgent
+CLD-092,"Cold chain break at handover: the first carrier left the pallet in an open yard for the second carrier, and it stood there for two hours in the sun with fresh milk on it.",Urgent
+CLD-093,The meat packer says our chiller truck arrived at their dock with a core temperature of 8°C. They have asked for the reefer download and a corrective action report.,Urgent
+CLD-094,I think the thermostat setting got bumped. The load of flowers needs 3°C but the box shows 14°C. The petals have started to droop and I am an hour from the market.,Urgent
+CLD-095,"The dry ice for our shipment of lab reagents ran out before delivery, and the package is now warm to the touch. The lab says the reagents must be kept frozen.",Urgent
+CLD-096,The fridge room at the cross-dock lost its cooling when a contractor cut the wrong cable. We moved a few pallets to another room but the rest are at 10°C.,Urgent
+CLD-097,One of our delivery vans has a faulty cold plate. The driver delivered frozen desserts to three customers before noticing it had stopped freezing. We need to recall those deliveries.,Urgent
+CLD-098,Customer reports that the cheese consignment smelled sour and the pallets were wet inside the wrap. The trailer log shows a long stop with the unit off at a border crossing.,Urgent
+CLD-099,"An oyster shipment arrived with the display reading 15°C. Live shellfish must stay under 8, so the whole lot is going to be discarded.",Urgent
+CLD-100,The truck's reefer alarm shows high discharge pressure and the unit has stopped. I am parked on the shoulder and the load is frozen berries that cannot sit long.,Urgent
+CLD-101,A new employee turned off the freezer compressor to defrost the evaporator and forgot to turn it back on. Four hours later the product is at minus 5.,Urgent
+CLD-102,I dropped the trailer at the customer's yard and they had no power to plug the reefer in. The unit's diesel tank ran out and the inside is warming.,Urgent
+CLD-103,"Our satellite temperature monitor shows spikes above 10°C every time the doors open at the three delivery stops, and the final stop receives goods near 9°C.",Urgent
+CLD-104,Insulin pens in the courier bag were left in a hot car for a day by mistake. The pharmacy says they cannot be sold and has requested a full replacement along with an incident record.,Urgent
+CLD-105,A seafood restaurant called to say that crab arrived barely cool and some were lifeless. Delivery was in an unrefrigerated van after our reefer broke at the hub.,Urgent
+CLD-106,"The cold room sensor in Hall B reads minus 2°C but a product thermometer shows 7°C. We think the fixed sensor is miscalibrated, so the alarms never went off.",Urgent
+CLD-107,During a power outage the backup generator took 25 minutes to kick in. Our freezer went from minus 20 to minus 12 and the stock needs a quality review.,Urgent
+CLD-108,Fruit juice concentrate pallets were exposed to freezing weather in a winter storm and the cartons are bulging. The trailer heater failed and the temperature dropped to minus 8.,Urgent
+CLD-109,"The pre-cooling of the trailer was skipped by the loading crew. I noticed the display read 18°C when we sealed the doors, and the frozen pizzas are already softening.",Urgent
+CLD-110,A reefer trailer on its way to the airport has a broken fan belt. The box is warming slowly and the pharmaceutical consignment has to make a flight in four hours.,Urgent
+CLD-111,Quality control found strawberries with mould and soft spots after the trailer log showed a six-hour period at 15°C. The retailer has rejected 20 pallets.,Urgent
+CLD-112,One of the display fridges in our depot shop failed overnight and we lost a full pallet of fresh pasta. The log shows it was at room temperature by morning.,Urgent
+CLD-113,"A truck with frozen vegetables was stuck behind a breakdown and the driver switched off the reefer to conserve fuel. By the time he restarted, the box was at minus 2.",Urgent
+CLD-114,The sensor probe wire in the trailer was chewed by something and is giving false low readings. The product is actually warm. We need all trailers on this route checked.,Urgent
+CLD-115,"Seafood paste shipments from our supplier have been arriving above the contract limit for three weeks in a row, the last one at 8°C. Stop shipping until the issue is found.",Urgent
+CLD-116,A leaking reefer hose sprayed coolant onto the floor and the unit lost pressure. The load of chilled juice is at 9°C and the driver has called for roadside help.,Urgent
+CLD-117,Operators noted that the blast chiller did not reach its target in the required time. A cooked rice batch is at 28°C after two hours when it should be below 10.,Urgent
+CLD-118,Customer complained of icy crystals and a freezer-burn smell on ice cream cartons. They believe the load was left at the dock too long before being put into cold storage.,Urgent
+CLD-119,The reefer door flapped open on a bumpy road because the latch bar was bent. We lost cold air for maybe an hour. The yoghurt cartons at the rear are at 11°C.,Urgent
+CLD-120,Our two-day shipment of cultured cells for a research lab was held up in customs without refrigeration and is now showing 22°C on the tag. They need to be told immediately.,Urgent
+CLD-121,I noticed ice building up on the reefer's evaporator and almost no airflow. The display says 6°C setpoint but the real temperature of the box is around 12°C.,Urgent
+CLD-122,A delivery of salad kits arrived at 13°C inside the trailer. The driver says the reefer was left on ventilation mode instead of cooling mode by the previous driver.,Urgent
+CLD-123,"Warehouse worker here: the freezer door's heater strip failed, the door is frozen half open, and the air near the entrance is minus 4 instead of minus 22.",Urgent
+CLD-124,"The tag recorder on our frozen seafood container expired and shows no data, so we cannot prove the cold chain. The buyer is refusing payment until a record is provided.",Urgent
+DLY-065,A landslide has cut off the road to the mountain hospital and I am on the far side with oxygen concentrators. I need an alternate route or other transport option as soon as possible.,Urgent
+DLY-066,The truck taking livestock vaccines to the farm cooperative is stuck behind an overturned lorry and the vaccines must be administered tomorrow morning. No alternate route known.,Urgent
+DLY-067,Our driver got sick and cannot continue. Nine pallets of fresh bread for a hotel chain are sitting in the cab and there is no relief driver within 150 km.,Urgent
+DLY-068,"Port congestion has delayed our container of car seats by four days and the car plant's line stops tomorrow noon. They are charging 20,000 dollars an hour in penalties.",Urgent
+DLY-069,The tailgate lift broke at the hospital loading bay and I cannot unload the dialysis machines. The nurse says they are needed on the ward within two hours.,Urgent
+DLY-070,Heavy snow closed the pass and 12 trucks are waiting. The cargo includes fresh milk for a school meal program that expires in two days.,Urgent
+DLY-071,Our carrier missed the sailing and the next vessel leaves in 10 days. The exhibition stand materials are needed in Dubai by Monday.,Urgent
+DLY-072,The truck engine seized outside the city limits. The chilled sushi for tonight's restaurant opening has 3 hours of shelf life left and nobody else can reach it in time.,Urgent
+DLY-073,Customs has seized the paperwork and is holding the truck of spare parts for a stopped production line. The client says every hour of delay costs them tens of thousands.,Urgent
+DLY-074,We have the largest wedding of the year tomorrow and the flower truck is stuck on the highway in a flooded section. Delivery needs to be done by 6 PM today.,Urgent
+DLY-075,The ambulance equipment shipment was left behind at the air hub because the manifest was wrong. The county health office needs it by morning for a mass vaccination event.,Urgent
+DLY-076,My trailer's brake lines failed and the truck has been towed. The load is human blood samples for a transplant centre and they have a 5-hour window.,Urgent
+DLY-077,The truck is delayed by 6 hours because of a bridge closure and the cargo is live lobsters that need to reach the restaurant by tonight or they will die.,Urgent
+DLY-078,Our trailer was held at the border due to a driver permit problem. The chemicals inside are needed at a water treatment plant tomorrow or the city will run out of purifying agents.,Urgent
+DLY-079,The cross-dock sorter jammed and 40 trailers of Black Friday stock are late. The retailer says unless it arrives by 6 AM they will cancel the orders and charge us a penalty.,Urgent
+DLY-080,A tire explosion damaged the suspension and the truck cannot move. The delivery is a set of aircraft parts for a grounded plane waiting at the airport.,Urgent
+DLY-081,"We missed the last ferry and the next one is tomorrow afternoon. The cargo of bakery items for an event tonight cannot wait, so we need another way across right now.",Urgent
+DLY-082,"Driver hours are exhausted and the truck is at a layby 30 km from the destination. The load is donor tissue cultures for a clinic, due in the next hour. Please send a relief driver.",Urgent
+DLY-083,A protest has blocked the entry to the factory and trucks with production inputs cannot get in. The plant says it will stop its line within the next two hours.,Urgent
+DLY-084,The truck with copper cathodes for the smelter is two days late and the smelter has run out of feed material. They have started to lose money every hour.,Urgent
+DLY-085,A heat wave buckled the pavement on the highway and traffic has been diverted by 200 km. My cargo is fresh strawberries for a festival that opens at 9 AM tomorrow.,Urgent
+DLY-086,A flight was cancelled so our urgent courier parcel with signed legal contracts will miss the filing deadline today. We need another way to reach the court office by 4 PM.,Urgent
+DLY-087,"Our tanker is stuck in a 6-hour queue at the fuel depot, and the hospital generators are down to a few hours of diesel. They will lose backup power if we do not arrive.",Urgent
+DLY-088,A landslip on the line means the cargo train carrying sugar for a beverage plant will not arrive for a week. The plant has one day of stock and production will stop tomorrow.,Urgent
+DLY-089,"I had to stop for a repair on the road, and the vaccines will miss the cold chain window if I do not get a replacement truck in two hours.",Urgent
+DLY-090,The truck delivering election material to polling stations is held up by a flooded road. The vote is tomorrow and the material must be in place by evening.,Urgent
+DLY-091,The airline overbooked the freight and our cargo of insulin cartridges was offloaded. The pharmacy distributor says stock-outs are happening and patients are calling.,Urgent
+DLY-092,A pileup shut the expressway and I am stuck for hours with a truckload of cut roses for Valentine's Day at a supermarket chain whose delivery slot closes at noon.,Urgent
+DLY-093,The third-party courier has lost track of a package containing a spare part for a hospital MRI machine. The machine is down and patients are being redirected elsewhere.,Urgent
+DLY-094,The truck delivering the replacement pump to the flooded mine broke its axle. Water is rising in the lower shaft and the crew needs the pump today.,Urgent
+DLY-095,Traffic around the stadium after the match added about 40 minutes to my trip. The customer's receiving hours run until 6 PM so there is plenty of time.,Standard
+DLY-096,The depot loaded my truck late because the forklift was being serviced. I will be a few hours behind but the goods are regular warehouse replenishment.,Standard
+DLY-097,"Strong crosswinds slowed everyone down on the bridge. I should arrive about an hour late at the retail park, and the store manager is aware.",Standard
+DLY-098,Customer email asking why their tracking page has said in transit for three days. The carrier says there was a minor hub backlog and expects delivery on Friday.,Standard
+DLY-099,"Lane closures from road resurfacing near the exit are causing a 20-minute queue. Nothing urgent on board, just office stationery for a regular order.",Standard
+DLY-100,Our weekly pallet shipment from the regional DC will arrive Wednesday instead of Tuesday because of a carrier driver shortage. The store has enough on shelves until then.,Standard
+DLY-101,Slight delay at the port gate this morning as the system was down for 45 minutes. The container has no hard deadline and we can pick it up tomorrow.,Standard
+DLY-102,My GPS took me through a school zone and I lost about 30 minutes on narrow streets. I will make the afternoon window for the paint delivery as planned.,Standard
+DLY-103,The courier says the parcel will be a day late because the van needed a tire change. It contains a replacement phone cover so there is no rush.,Standard
+DLY-104,Early evening rain flooded one lane near the exit and cars are crawling. I am about an hour behind schedule but the customer closes at 8.,Standard
+DLY-105,The shipment of garden furniture slipped from Monday to Thursday since the previous vessel was full. The customer has been told and does not mind.,Standard
+DLY-106,There was a queue at the weighbridge because of an audit and we lost two hours. The cargo is cement bags and the site manager says tomorrow morning is fine as well.,Standard
+DLY-107,A lorry in front of me shed a load of straw and traffic stopped for half an hour. I will still reach the depot before it shuts.,Standard
+DLY-108,The booking for our dock slot was cancelled by the warehouse because of a staff shortage and moved to the next day. Our stock is not urgent so the change is acceptable.,Standard
+DLY-109,I have a five-hour slip on my planned arrival due to a breakdown of the previous driver's truck. The customer just called back and said it is fine to deliver next morning.,Standard
+DLY-110,"Three trucks ahead of me had paperwork problems at the gate, so I will unload late this afternoon instead of at noon. Pallets of books, nothing perishable.",Standard
+DLY-111,Foggy at dawn on the ring road. The convoy is moving at 30 km per hour so I will be about two hours late to the distribution centre. They said no problem.,Standard
+DLY-112,The truck made an extra stop to return a damaged pallet to origin and that added an hour. The remainder will still be delivered on the same day.,Standard
+DLY-113,"The annual holiday pushed the sorting centre's volume to a peak, so deliveries in our region are running a day late. Customers have been notified by SMS.",Standard
+DLY-114,"The customer's gate guard was not at his post and I waited an hour with the engine on. The delivery of floor tiles is going ahead after that, and the foreman is not worried.",Standard
+DLY-115,"A parade closed the main street and I had to take the long way around. I expect to arrive after lunch, which is still within the retailer's receiving window.",Standard
+DLY-116,"The order confirmation says two days but tracking now says four. It is a set of kitchen chairs and I am not in a hurry, just curious about the reason.",Standard
+DLY-117,The truck was assigned a different route because of a new road permit requirement and the trip will take 90 minutes longer. The receiving party was informed this morning.,Standard
+DLY-118,Light snow overnight meant trucks left the yard late. About 20 deliveries are running 1 to 2 hours behind but all of them are standard retail orders.,Standard
+DLY-119,Driver changeover at the depot was late because the relief driver overslept. I took over the truck 70 minutes later than planned and will still deliver today.,Standard
+DLY-120,There was a short delay with our container at inspection because the customs officer needed one more signature. It was cleared in the afternoon and the importer was fine with it.,Standard
+DLY-121,"Delivery to the warehouse was pushed because their dock was full of trucks, and they asked us to come back tomorrow. Our load is dry goods and the rescheduled slot works for everyone.",Standard
+DLY-122,A slow-moving farm vehicle on a single-lane road made me late by about 25 minutes. The consignee is an office and told me to just come when I can.,Standard
+DLY-123,"A heavy downpour made the underpass impassable for an hour, but it has reopened. I will be late for the 3 PM slot but the receiver has moved me to 4.",Standard
+DLY-124,"My truck had to wait at the railway crossing for a freight train that was stopped for more than 30 minutes. It is a clothes order for a boutique, and delivery is still on time for tomorrow.",Standard
+MSP-065,We ordered 40 reams of 80 gsm paper and a pallet arrived with 70 gsm. The pallet tag and invoice both say 80 gsm so I think the picker grabbed the neighbouring stock.,Standard
+MSP-066,The customer ordered the 2-liter version of the water jug but the cartons contain the 1-liter. Both products share the same shelf and the same packaging colour.,Standard
+MSP-067,"The pallet we received for store 14 has the label for store 41. The content is right for the other store, so the transposed digits happened during labelling.",Standard
+MSP-068,"Packed order 90455 shows two blenders, but the box contains one blender and one toaster. The picker mis-scanned an adjacent SKU.",Standard
+MSP-069,I opened the carton of men's socks and found women's socks in a similar colour. Same product code except for the last letter. Please send the correct pairs.,Standard
+MSP-070,We received 5 boxes of gloves in size small when we asked for large. Our staff have already opened two boxes and need replacements by Friday.,Standard
+MSP-071,"Instead of the 12 pack of AA batteries, the order contained 12 single AAA packs. The quantity matches but the type is wrong.",Standard
+MSP-072,"One line of our order is missing altogether: 10 desk lamps. The packing slip lists them as shipped, yet there are only 9 items in the box.",Standard
+MSP-073,A picker took stock from the quarantine area and sent it out. The units have a hold sticker on them and were not cleared by quality.,Standard
+MSP-074,We got another customer's order in our delivery. Their name is on the packing slip and they ordered a different kind of cat litter.,Standard
+MSP-075,The supplier sent the right quantity of bolts but in zinc finish instead of stainless steel. Our job requires stainless and the zinc ones will rust outdoors.,Standard
+MSP-076,"I need to flag a pick error: we ordered 6 left-hand door handle sets and got 6 right-hand ones. The case labels are correct, so the wrong goods are inside the right cases.",Standard
+MSP-077,We were shipped 100 units of the old model number even though the system shows it as replaced. Whoever picked the order chose from an old shelf location.,Standard
+MSP-078,"Today's delivery has twice the quantity we wanted on four lines. It looks like a unit of measure confusion, cases versus each.",Standard
+MSP-079,Two sizes of the same shirt style were stacked in one bin and the picker mixed them in the order. The customer got sizes M and L in the same carton labelled M.,Standard
+MSP-080,We were sent 24 bottles of hot sauce in mild rather than extra hot. The label on the case says extra hot but the bottles inside are mild.,Standard
+MSP-081,"Mispick in aisle 22: the bin labelled 8 mm drill bits actually contained 6 mm, which has caused a few wrong orders this week.",Standard
+MSP-082,A customer got a shipping box containing someone else's headphones. Their own order of a webcam is still sitting on our packing bench.,Standard
+MSP-083,"On receiving, I counted 18 cartons but the paperwork and our PO say 24. Six cartons were not picked even though the picking sheet is ticked.",Standard
+MSP-084,The goods came with a lot number that expires next month. For this item we ordered a minimum remaining shelf life of 6 months. The picker chose the oldest lot.,Standard
+MSP-085,Orders for two branches of the same pharmacy chain were swapped. Branch A has the vitamins for B and vice versa. The pallet labels were mixed at the packing area.,Standard
+MSP-086,"The client ordered black ink cartridges and received yellow. Item numbers are one apart, and the picker likely read the wrong digit on the pick list.",Standard
+MSP-087,The wrong fabric colour was cut and packed for a bulk order. They wanted navy and we sent charcoal rolls totalling 300 meters.,Standard
+MSP-088,The customer complains that the toy set arrived without the batteries that were included in the product description. The picker forgot to add the accessory pack to the bundle.,Standard
+MSP-089,"Our driver delivered 4 pallets but the order was for 5. The WMS shows 5 loaded, which means a pallet was ticked but not loaded, or loaded onto the wrong truck.",Standard
+MSP-090,The pick team sent a box of A4 lined notebooks instead of the squared ones that were ordered. Both are in the same stack and have similar covers.,Standard
+MSP-091,"When I unpacked the order, the cookware lids were for a 24 cm pan but the pans are 28 cm. The pairs were split during picking.",Standard
+MSP-092,"The wrong region variant of a game console was dispatched. The customer needs the EU version and got the US one, with the wrong plug.",Standard
+MSP-093,"Our order included 30 extra units of an item that we did not request, and one of the ones we asked for is missing. Possibly an off-by-one in the SKU.",Standard
+MSP-094,"The labels on shelf A-07 were switched after a re-slotting exercise, and since then we have had four mispicks involving shower heads and taps.",Standard
+MSP-095,"A customer returned an unopened box of hair dryers, but the box held hair straighteners. The mix-up occurred at dispatch because the two share a single product page.",Standard
+MSP-096,"Our order for 10 laptop sleeves of 13 inch arrived as 10 sleeves of 15 inch. They will not fit, and the customer wants a swap by Monday.",Standard
+MSP-097,We were shipped sugar-free biscuits when the order was for regular biscuits. The cartons look nearly the same and the picker missed the small text.,Standard
+MSP-098,"The picker used the wrong batch for the pharmaceutical order. The strength was 10 mg and the order said 5 mg, so the stock was held at receiving and reported.",Standard
+MSP-099,"A retailer received a pallet intended for another retailer, consisting of seasonal items they never ordered. They have photographed the labels.",Standard
+MSP-100,"The delivery note says 3 monitors with HDMI cables, but the box has no cables. The cable bundle line was skipped in picking.",Standard
+MSP-101,The customer wanted three-hole paper and got two-hole paper. The stock code differs by a single suffix and the picker did not read it fully.,Standard
+MSP-102,"The invoice says 20 spare filters for model X200, and the filters inside are for the X300. They do not fit, and the mismatch was only discovered at installation.",Standard
+MSP-103,A customer was sent the wrong colour paint on a trade order. They asked for white and got cream. The tins have a small colour dot which the picker overlooked.,Standard
+MSP-104,"Eight items in the shipment were not on our order, and the sales rep says the customer ordered under a similar account name. The picker used the wrong account.",Standard
+MSP-105,"The pallet of juice we received has pineapple instead of orange. The outer wrap reads orange and the packing slip says orange too, so the pallet was probably built from the wrong location.",Standard
+MSP-106,"This morning's outbound audit found 14 orders with an incorrect pack count. It looks like a scale issue at the packing station, so picks are being checked again.",Standard
+MSP-107,"We found a pallet of our goods in the aisle designated for another customer. If the picker had taken it, there would have been another wrong shipment.",Standard
+MSP-108,Our order of 200 pens included 200 refill packs and no pens. They are the same price and sit next to each other.,Standard
+MSP-109,"Instead of left-handed baseball gloves, we got right-handed. The packaging only gives the size in large print, which is probably what the picker looked at.",Standard
+MSP-110,"The customer ordered a 55-inch TV and a 43-inch one was packed. The model number on the carton looks right to a casual glance, but the screen size differs.",Standard
+MSP-111,A wrong delivery address label was applied to a pallet in the dispatch bay and it went to the neighbouring town. The customer has been calling and wants the right goods.,Standard
+MSP-112,Warehouse replenishment sent the wrong flavour of protein powder to the gym chain. They requested vanilla and received chocolate for eight tubs.,Standard
+MSP-113,"We found out that two pickers had been scanning the wrong barcode, the one on the outer shrink, which is the same for two different products. This explains the recent errors.",Standard
+MSP-114,"The sample pack we sent to a prospect had the wrong brochure inside, an old price list from last year. Quite embarrassing and needs to be replaced.",Standard
+MSP-115,An order of gift boxes went out with the Christmas design instead of the Diwali design. The customer is a retailer who needs them for next month.,Standard
+MSP-116,The customer wanted 12 packs of A5 sticky notes but got 12 packs of A7. The codes for the sizes differ by only a digit and the picker went with the closest bin.,Standard
+MSP-117,"Our system showed picks completed, yet the delivery came 15 pieces short. The picker scanned the case once but the case contains only 5 pieces instead of 20.",Standard
+MSP-118,"A cat food order contained dog food of the same brand. The customer has opened one carton and cannot return it, so would like a replacement.",Standard
+MSP-119,The pick list had the wrong unit of measure and the warehouse sent 6 single bottles instead of 6 cases of detergent. The customer is understandably annoyed.,Standard
+MSP-120,"We shipped a size 10 shoe to a customer who ordered size 8. Customer service confirmed the size on the order, so the error happened at the picking stage.",Standard
+MSP-121,"The wrong colour cables were sent for a data centre order, blue instead of the specified grey. Colour coding matters for them and they need all 60 swapped.",Standard
+MSP-122,"The order was packed correctly, but the pick team put the paperwork for a different customer inside the carton. The invoice amounts do not match what is in the box.",Standard
+MSP-123,We have a spare part for the wrong machine generation in the order. The part number on the label ends with B but the part is for version C.,Standard
+MSP-124,"We delivered the right products in the wrong quantity per carton, 6 per carton rather than 12. The customer wanted to re-stock vending machines and has to do some repacking.",Standard
+DMG-065,The shrink wrap on the delivered pallet had been ripped off on one side and 6 cartons at the corner were crushed. Contents seem alright but the cartons look like they were hit by a forklift.,Standard
+DMG-066,Rainwater got into the load on the way and the bottom layer of sacks of rice are soaked. The pallet is heavy and the bags are splitting when lifted.,Standard
+DMG-067,Two cartons of wine arrived with wet bottoms and a strong smell of alcohol. At least four bottles broke and the cardboard has gone soft.,Standard
+DMG-068,Cardboard boxes of bathroom tiles had their corners crumpled and a number of tiles chipped at the edges. The pallet was not strapped and the load shifted.,Standard
+DMG-069,During offloading the forklift driver pushed a fork through the side of a carton of olive oil tins. Two tins are dented and one has leaked a little onto the pallet.,Standard
+DMG-070,"An entire row of cartons is caved in on the pallet because another pallet was stacked on top of it. The goods inside are electrical sockets, which seem fine, but the packaging is flattened.",Standard
+DMG-071,"The drum of cooking oil has a hairline crack along the seam and there is a small puddle in the trailer. Not a hazardous product, but it needs cleaning and the drum is unusable.",Standard
+DMG-072,"The cartons of crockery arrived with the sides bulging and rattling, and the dividers had collapsed. We opened one and about a third of the plates had broken edges.",Standard
+DMG-073,All the bags of cement on the bottom layer are hard and lumpy because they got wet. The pallet's plastic cover was never applied.,Standard
+DMG-074,"Several cartons were bent in the middle, as if the pallet was dropped from a height. Mirrors inside have chipped corners and were packed with only thin foam.",Standard
+DMG-075,Outer cartons of our books have mould spots on them as the pallet was stored in a damp area. The books inside are mostly fine but the covers are stuck to the wrapper.,Standard
+DMG-076,The garment boxes were chewed through at the corners by rodents at the carrier's warehouse. There are droppings and holes in 5 boxes and the clothes need to be inspected.,Standard
+DMG-077,The wooden crate carrying a glass table top arrived with a split side. The glass had a visible crack across it and there was no corner protection.,Standard
+DMG-078,"One side of the pallet was dragged across the floor and the bottoms of the cartons are torn and scuffed. The goods inside, paper cups, are still sealed.",Standard
+DMG-079,A leaking bottle of soy sauce had soaked the cartons beneath it and left a sticky mess on four of the boxes. The labels are unreadable.,Standard
+DMG-080,Many of the boxes of cereal were crushed flat on the top layer because the pallet height was above the trailer's recommended limit.,Standard
+DMG-081,"Crates of eggs on the pallet were crushed at the base and about 8 trays were broken, leaving a mess on the pallet and the floor of the trailer.",Standard
+DMG-082,Cartons of dishwasher tablets came with split seams and the powder has spilled into the plastic wrap. The rest of the pallet has a chemical smell.,Standard
+DMG-083,"A box of ceramic sinks was punctured by the fork of a pallet truck, and one sink has a visible chip on the rim. The delivery driver said it happened on the way in.",Standard
+DMG-084,The plastic container lids arrived cracked and warped because the pallet sat in the sun at a loading dock all afternoon.,Standard
+DMG-085,"During transit the tape came off a carton of glassware and the flaps opened. Two glasses fell out and shattered, and several more are chipped.",Standard
+DMG-086,Several 20 kg sacks of fertilizer were torn open and product has leaked onto the other sacks. The trailer floor is covered with granules.,Standard
+DMG-087,Multiple cartons of tinned tomatoes have dents in the side and the labels are scuffed. The cans are not leaking but the supermarket will not accept dented cases.,Standard
+DMG-088,The customer says the corner protectors on the television boxes were missing and the packaging is dented on three of the boxes. Screens seem alright but they do not want to take a chance.,Standard
+DMG-089,We received a pallet of canvas paintings in cartons with crushed edges. One canvas has a dent in the frame and another has a tear across the surface.,Standard
+DMG-090,"Four 25-litre containers of liquid soap were cracked on the way, leaving the pallet slimy. The shrink film trapped the liquid, so everything under it is wet.",Standard
+DMG-091,The outer cases of baby formula tins look battered and crumpled and one case is soaked on one side. The inner tins are fine but the retailer will only accept clean cases.,Standard
+DMG-092,The strapping on a pallet of steel pipes broke and several pipes slid out and dented the pallet next to it. A few pallet boards are splintered too.,Standard
+DMG-093,A heavy carton fell off the top of a stack in the warehouse and landed on a box of lampshades. They are crushed beyond use.,Standard
+DMG-094,"The foam inserts in the box for the printer were missing, and the printer has a cracked panel on the side. The box has a visible puncture mark.",Standard
+DMG-095,The rear of the trailer had a puddle from a roof leak. Pallets were standing in water for a long time and the bottom cartons of paper towels have turned to mush.,Standard
+DMG-096,"The pallet of jars of pickles had two broken jars and the brine ran down through the cartons, so all cartons under them are soggy and about to collapse.",Standard
+DMG-097,A delivery of mattresses in plastic arrived with oil stains and tears in the wrap. The mattresses are not damaged but the customer cannot accept soiled packaging.,Standard
+DMG-098,A few of the boxes of light bulbs sound like they are full of broken glass when shaken. The cartons were put under a heavier pallet of tiles.,Standard
+DMG-099,The cardboard tubes holding posters were bent and flattened at one end. The rolled posters inside have creases and some are torn.,Standard
+DMG-100,The container arrived with condensation dripping from the roof and a layer of rust spots on the steel components in cartons. The cartons are damp and the labels are peeling.,Standard
+DMG-101,"The pallet jack operator dropped a box containing a glass display case. Fragments are everywhere and the box is open, while the other boxes nearby have glass shards on them.",Standard
+DMG-102,A shipment of musical instruments had a dented guitar case and a scratched violin box. The packaging didn't have enough padding and the cartons were stacked three high.,Standard
+DMG-103,"One side of the trailer had an empty space and the load of mixed cartons shifted. Roughly 10 of them are open, with products scattered on the trailer floor.",Standard
+DMG-104,"We found the bottom three cartons of laundry liquid cracked and leaking in our storeroom. There is a lot of mess and the floor is slippery, so the stack needs to be moved carefully.",Standard
+DMG-105,"The cardboard sleeves for the picture frames got wet and bent. The frames themselves are fine, but the packaging cannot go on the shelf.",Standard
+DMG-106,A truck door was damaged and the cartons nearest to it have scrape marks and gashes. The customer wants a photo-based claim for packaging damage.,Standard
+DMG-107,Heavy bags of rice were stacked on top of cartons of biscuits and the biscuit cartons are crushed. Crumbs are visible through the torn edges.,Standard
+DMG-108,"We found tears in the outer wrap of 8 pallets coming from the same supplier this week, and a number of cartons are scuffed. We suspect poor wrapping at the source.",Standard
+DMG-109,Cartons of cooking spray cans were dropped and some cans are visibly dented and a couple have leaked propellant. The pallet should be kept apart.,Standard
+DMG-110,The glass bottles of juice were not separated by dividers and ten of them broke in transit. The rest of the box is sticky and the cartons are collapsing.,Standard
+DMG-111,The outer boxes for the microwaves are dented at the corners and one has a hole where a strap bit into it. The customer wants to check each unit before accepting.,Standard
+DMG-112,A pallet of printed brochures arrived with water stains running through the whole stack. The top ones are fine but the lower half is stuck together and curled up.,Standard
+DMG-113,"A box of wedding invitations got creased in the middle when something heavy was put on it. The envelopes are bent and a few are torn, and they are due for dispatch.",Standard
+DMG-114,Dozens of fruit crates were cracked because the wooden slats were too thin for the load. The fruit has bruised and the outer layer is squashed.,Standard
+DMG-115,Crates of beer bottles were stacked badly and the bottom crate buckled. Two dozen bottles broke and the plastic crates are cracked.,Standard
+DMG-116,The corrugated boxes of toys were crushed and are folded like an accordion. The packaging is flattened but the toys inside seem fine. The retailer says it cannot be sold in this state.,Standard
+DMG-117,"The strap on the pallet was too tight and cut into the boxes, leaving deep creases and slits in the top row.",Standard
+DMG-118,Barrels of paint arrived with dented lids and a few drips down the sides. The label on one barrel is smeared and unreadable. It is not leaking much but the barrel is messy.,Standard
+DMG-119,The load of mirrors had corner damage. Several mirrors have chipped edges because the crate had no padding and was packed too loosely.,Standard
+DMG-120,We got a complaint about bags of peas torn at the seam. The bags were mishandled by the carton packers and the peas are scattered inside the box.,Standard
+DMG-121,The metal cabinets arrived with dents on the doors from rubbing against each other. The protective film is torn and the paint is scratched on three units.,Standard
+DMG-122,During unloading a pallet toppled in the yard and about 20 cartons of snack packs split open. The snack packs are crushed and scattered and will need to be written off.,Standard
+DMG-123,"Plastic wrap around the pallet was never fitted and the cartons shifted into each other, leaving bent corners and torn flaps on several of them.",Standard
+DMG-124,"Rodents chewed through the sacks of lentils stored at the warehouse. Several sacks have holes and grains on the floor, and the pallet is contaminated and needs to be removed.",Standard

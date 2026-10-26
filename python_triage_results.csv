@@ -1,0 +1,621 @@
+incident_id,true_category,pred_category,category_correct,source,rule_top_score,rule_margin,true_urgency,pred_urgency,urgency_correct,matched_keywords
+THF-001,Theft/Security,Theft/Security,yes,rules-lowconf,4,3,Urgent,Urgent,yes,lock cut; missing
+THF-002,Theft/Security,Theft/Security,yes,rules,5,4,Urgent,Urgent,yes,cctv; missing; pallet*
+THF-003,Theft/Security,Mispick/Order Error,no,rules-lowconf,1,1,Urgent,Standard,no,short
+THF-004,Theft/Security,Theft/Security,yes,rules-lowconf,2,2,Urgent,Urgent,yes,drained
+THF-005,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-006,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-007,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-008,Theft/Security,Theft/Security,yes,rules-lowconf,3,2,Urgent,Urgent,yes,alarm; padlock
+THF-009,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-010,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-011,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing; pallet*
+THF-012,Theft/Security,Delay/Transit,no,rules-lowconf,1,0,Urgent,Standard,no,guard; driver*
+THF-013,Theft/Security,Theft/Security,yes,rules-lowconf,3,3,Urgent,Urgent,yes,stol*
+THF-014,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-015,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing; power
+THF-016,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-017,Theft/Security,Damage/Handling,no,rules-lowconf,2,2,Urgent,Standard,no,broken
+THF-018,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-019,Theft/Security,Theft/Security,yes,rules-lowconf,3,1,Urgent,Urgent,yes,wrong; hijack*
+THF-020,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-021,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-022,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-023,Theft/Security,Damage/Handling,no,rules-lowconf,1,0,Urgent,Standard,no,driver*; pallet*
+THF-024,Theft/Security,Theft/Security,yes,rules-lowconf,3,2,Urgent,Urgent,yes,driver*; theft; short; pallet*
+THF-025,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-026,Theft/Security,Delay/Transit,no,rules-lowconf,1,0,Urgent,Standard,no,driver*; sensor
+THF-027,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-028,Theft/Security,Mispick/Order Error,no,rules-lowconf,3,3,Urgent,Standard,no,swapped
+THF-029,Theft/Security,Theft/Security,yes,rules-lowconf,3,3,Urgent,Urgent,yes,stol*
+THF-030,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-031,Theft/Security,Damage/Handling,no,rules-lowconf,2,0,Urgent,Standard,no,missing; forklift; pallet*
+THF-032,Theft/Security,Theft/Security,yes,rules-lowconf,1,1,Urgent,Urgent,yes,guard
+THF-033,Theft/Security,Theft/Security,yes,rules-lowconf,3,3,Urgent,Urgent,yes,break in
+THF-034,Theft/Security,Theft/Security,yes,rules-lowconf,3,2,Urgent,Urgent,yes,driver*; short; tamper*
+THF-035,Theft/Security,Damage/Handling,no,rules-lowconf,3,0,Urgent,Standard,no,damage*; theft
+THF-036,Theft/Security,Theft/Security,yes,rules-lowconf,1,1,Urgent,Urgent,yes,guard
+THF-037,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-038,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-039,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-040,Theft/Security,Damage/Handling,no,rules-lowconf,3,0,Urgent,Standard,no,torn; reefer
+THF-041,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-042,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-043,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,route
+THF-044,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-045,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing; pallet*
+THF-046,Theft/Security,Damage/Handling,no,rules-lowconf,2,2,Urgent,Standard,no,broken
+THF-047,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-048,Theft/Security,Theft/Security,yes,rules-lowconf,3,3,Urgent,Urgent,yes,stol*
+THF-049,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-050,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-051,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-052,Theft/Security,Theft/Security,yes,rules-lowconf,3,2,Urgent,Urgent,yes,route; tamper*
+THF-053,Theft/Security,Theft/Security,yes,rules,6,6,Urgent,Urgent,yes,stol*; broke into
+THF-054,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-055,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-056,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-057,Theft/Security,Damage/Handling,no,rules-lowconf,2,2,Urgent,Standard,no,forklift; pallet*
+THF-058,Theft/Security,Mispick/Order Error,no,rules-lowconf,1,1,Urgent,Standard,no,short
+THF-059,Theft/Security,Delay/Transit,no,rules-lowconf,2,2,Urgent,Standard,no,driver*; route
+THF-060,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-061,Theft/Security,Delay/Transit,no,rules-lowconf,1,0,Urgent,Standard,no,guard; driver*
+THF-062,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-063,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-064,Theft/Security,Mispick/Order Error,no,rules-lowconf,1,1,Urgent,Standard,no,short
+CLD-001,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,6,Urgent,Urgent,yes,reefer; temperature*
+CLD-002,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-003,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,1,0,Urgent,Standard,no,guard; pallet*; power
+CLD-004,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,5,Urgent,Urgent,yes,driver*; fridge; temperature*
+CLD-005,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,5,5,Urgent,Urgent,yes,ice; melted
+CLD-006,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,6,1,Urgent,Standard,no,damage*; reefer; leak*; warm
+CLD-007,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,fridge; pallet*
+CLD-008,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-009,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,5,5,Urgent,Urgent,yes,ice; reefer
+CLD-010,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-011,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,2,Urgent,Urgent,yes,driver*; temperature*; late; alarm; forklift
+CLD-012,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,1,Urgent,Urgent,yes,reefer; stuck
+CLD-013,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,reefer
+CLD-014,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-015,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,1,Urgent,Urgent,yes,cold chain; stuck
+CLD-016,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,reefer; highway
+CLD-017,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+CLD-018,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,freezer; pallet*
+CLD-019,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,8,8,Urgent,Urgent,yes,reefer; temperature*; alarm; sensor
+CLD-020,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,3,1,Urgent,Standard,no,punctur*; warm
+CLD-021,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+CLD-022,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,temperature*; alarm
+CLD-023,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,reefer
+CLD-024,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,6,Urgent,Urgent,yes,ice; refrigerat*; power
+CLD-025,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-026,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,1,1,Urgent,Urgent,yes,sensor
+CLD-027,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,3,0,Urgent,Standard,no,driver*; reefer; late; weather
+CLD-028,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,8,6,Urgent,Urgent,yes,reefer; temperature*; stuck; warm
+CLD-029,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-030,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,chiller
+CLD-031,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,3,0,Urgent,Standard,no,reefer; breakdown
+CLD-032,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,1,Urgent,Urgent,yes,driver*; reefer; route
+CLD-033,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-034,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,8,5,Urgent,Urgent,yes,temperature*; break in; cold chain; warm
+CLD-035,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-036,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+CLD-037,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,reefer
+CLD-038,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,8,5,Urgent,Urgent,yes,ice; traffic; refrigerat*; melted
+CLD-039,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,6,Urgent,Urgent,yes,excursion*; temperature*
+CLD-040,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-041,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,thaw*
+CLD-042,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,9,9,Urgent,Urgent,yes,power; reefer; temperature*; warm
+CLD-043,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,4,4,Urgent,Standard,no,delay*; driver*
+CLD-044,Cold Chain/Temperature,Delay/Transit,no,rules,6,3,Urgent,Standard,no,delay*; delayed; cold chain
+CLD-045,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,3,0,Urgent,Standard,no,reefer; leak*
+CLD-046,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,temperature*; sensor
+CLD-047,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,6,Urgent,Urgent,yes,reefer; fridge
+CLD-048,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+CLD-049,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,1,1,Urgent,Urgent,yes,power
+CLD-050,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,reefer; pallet*
+CLD-051,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-052,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,6,Urgent,Urgent,yes,fridge; refrigerat*
+CLD-053,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,power; warm
+CLD-054,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,1,Urgent,Urgent,yes,temperature*; wrong; pallet*
+CLD-055,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,fridge
+CLD-056,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,3,0,Urgent,Standard,no,driver*; reefer; stuck
+CLD-057,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,5,5,Urgent,Urgent,yes,ice; temperature*
+CLD-058,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,6,Urgent,Urgent,yes,thaw*; reefer
+CLD-059,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,fridge
+CLD-060,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,2,2,Urgent,Urgent,yes,warm
+CLD-061,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+CLD-062,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,7,6,Urgent,Urgent,yes,ice; reefer; pallet*; warm
+CLD-063,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,5,2,Urgent,Urgent,yes,ice; leak*; refrigerat*
+CLD-064,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,8,8,Urgent,Urgent,yes,reefer; temperature*; alarm; sensor
+DLY-001,Delay/Transit,Delay/Transit,yes,rules-lowconf,4,4,Urgent,Standard,no,highway; accident
+DLY-002,Delay/Transit,Delay/Transit,yes,rules-lowconf,2,2,Urgent,Urgent,yes,stuck
+DLY-003,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Urgent,yes,driver*
+DLY-004,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Urgent,yes,late
+DLY-005,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Standard,no,route
+DLY-006,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Urgent,yes,stranded
+DLY-007,Delay/Transit,Delay/Transit,yes,rules,6,6,Urgent,Standard,no,delay*; delayed
+DLY-008,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-009,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-010,Delay/Transit,Damage/Handling,no,rules-lowconf,1,0,Urgent,Standard,no,driver*; pallet*
+DLY-011,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-012,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Urgent,yes,detour
+DLY-013,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Standard,no,route; stuck
+DLY-014,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-015,Delay/Transit,Mispick/Order Error,no,rules-lowconf,3,1,Urgent,Standard,no,driver*; route; wrong; short
+DLY-016,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Urgent,yes,driver*
+DLY-017,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-018,Delay/Transit,Damage/Handling,no,rules-lowconf,2,2,Urgent,Standard,no,broken
+DLY-019,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-020,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-021,Delay/Transit,Damage/Handling,no,rules-lowconf,2,0,Urgent,Standard,no,driver*; spill*; highway
+DLY-022,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Urgent,yes,highway
+DLY-023,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Standard,no,late
+DLY-024,Delay/Transit,Cold Chain/Temperature,no,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+DLY-025,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-026,Delay/Transit,Mispick/Order Error,no,rules-lowconf,2,2,Urgent,Standard,no,wrong
+DLY-027,Delay/Transit,Delay/Transit,yes,rules,6,6,Urgent,Standard,no,delay*; delayed
+DLY-028,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Urgent,yes,driver*
+DLY-029,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-030,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Urgent,yes,driver*; stuck
+DLY-031,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Urgent,yes,gridlock
+DLY-032,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-033,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,traffic
+DLY-034,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,highway
+DLY-035,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-036,Delay/Transit,Damage/Handling,no,rules-lowconf,1,0,Standard,Standard,yes,late; pallet*
+DLY-037,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,route
+DLY-038,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-039,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-040,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-041,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-042,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,driver*
+DLY-043,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-044,Delay/Transit,Delay/Transit,yes,rules,8,8,Standard,Standard,yes,delay*; stuck; breakdown
+DLY-045,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-046,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-047,Delay/Transit,Delay/Transit,yes,rules-lowconf,4,4,Standard,Standard,yes,highway; accident
+DLY-048,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,2,Standard,Urgent,no,pallet*; eta
+DLY-049,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,traffic
+DLY-050,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,delay*
+DLY-051,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-052,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-053,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,delay*
+DLY-054,Delay/Transit,Delay/Transit,yes,rules,6,6,Standard,Standard,yes,delay*; delayed
+DLY-055,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-056,Delay/Transit,Damage/Handling,no,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DLY-057,Delay/Transit,Delay/Transit,yes,rules-lowconf,2,2,Standard,Standard,yes,driver*; late
+DLY-058,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-059,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-060,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,delay*
+DLY-061,Delay/Transit,Delay/Transit,yes,rules,6,5,Standard,Standard,yes,delay*; delayed; short
+DLY-062,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-063,Delay/Transit,Mispick/Order Error,no,rules-lowconf,2,2,Standard,Standard,yes,wrong
+DLY-064,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+MSP-001,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,packing slip
+MSP-002,Mispick/Order Error,Mispick/Order Error,yes,rules,8,8,Standard,Standard,yes,wrong; sku; picker*
+MSP-003,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-004,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-005,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,1,Standard,Standard,yes,wrong; pallet*
+MSP-006,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,4,4,Standard,Standard,yes,picker*; short
+MSP-007,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,quantity; extra
+MSP-008,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-009,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; picker*
+MSP-010,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,pick list
+MSP-011,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,swapped
+MSP-012,Mispick/Order Error,Damage/Handling,no,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+MSP-013,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; picker*
+MSP-014,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,packing slip
+MSP-015,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; mismatch*
+MSP-016,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,mispick*; wrong
+MSP-017,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,4,2,Standard,Standard,yes,missing; picker*
+MSP-018,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-019,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-020,Mispick/Order Error,Damage/Handling,no,rules-lowconf,1,0,Standard,Standard,yes,short; pallet*
+MSP-021,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,swapped
+MSP-022,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,quantity; wrong
+MSP-023,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,2,Standard,Standard,yes,picker*; pallet*
+MSP-024,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,wrong; barcode*
+MSP-025,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-026,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-027,Mispick/Order Error,Mispick/Order Error,yes,rules,5,2,Standard,Standard,yes,torn; sku; wrong
+MSP-028,Mispick/Order Error,Mispick/Order Error,yes,rules,5,4,Standard,Standard,yes,wrong; picker*; pallet*
+MSP-029,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-030,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-031,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-032,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,1,Standard,Standard,yes,wrong; power
+MSP-033,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,1,1,Standard,Standard,yes,short
+MSP-034,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-035,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,swapped; wrong
+MSP-036,Mispick/Order Error,Mispick/Order Error,yes,rules,9,9,Standard,Standard,yes,wrong item; mispick*; wrong; barcode*
+MSP-037,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-038,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-039,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-040,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; picker*
+MSP-041,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-042,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-043,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-044,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; picker*
+MSP-045,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,packing slip
+MSP-046,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-047,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-048,Mispick/Order Error,Mispick/Order Error,yes,rules,6,6,Standard,Standard,yes,mispick*; picker*
+MSP-049,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-050,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-051,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-052,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,packing slip
+MSP-053,Mispick/Order Error,Damage/Handling,no,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+MSP-054,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,1,1,Standard,Standard,yes,extra
+MSP-055,Mispick/Order Error,Damage/Handling,no,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+MSP-056,Mispick/Order Error,Mispick/Order Error,yes,rules,8,8,Standard,Standard,yes,wrong; picker*; pick list
+MSP-057,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,4,2,Standard,Standard,yes,missing; picker*
+MSP-058,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-059,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,mispick*
+MSP-060,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-061,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-062,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-063,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-064,Mispick/Order Error,Mispick/Order Error,yes,rules,8,8,Standard,Standard,yes,wrong; sku; picker*
+DMG-001,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,unsellable; crush*; pallet*
+DMG-002,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,torn; pallet*
+DMG-003,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,dent*; crack*
+DMG-004,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,broken; dent*; forklift; pallet*
+DMG-005,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,torn; damage*
+DMG-006,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,broken; forklift; punctur*
+DMG-007,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-008,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,damage*
+DMG-009,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,pallet*; leak*; punctur*
+DMG-010,Damage/Handling,Damage/Handling,yes,rules,5,5,Standard,Standard,yes,broken; crack*
+DMG-011,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crush*
+DMG-012,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,wet; pallet*
+DMG-013,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-014,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,dent*; crush*
+DMG-015,Damage/Handling,Damage/Handling,yes,rules,9,9,Standard,Standard,yes,dent*; leak*; crack*
+DMG-016,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,pallet*; dent*; ripped
+DMG-017,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,damage*
+DMG-018,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-019,Damage/Handling,Damage/Handling,yes,rules,5,5,Standard,Standard,yes,broken; spill*; pallet*
+DMG-020,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,torn
+DMG-021,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crush*
+DMG-022,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-023,Damage/Handling,Damage/Handling,yes,rules,8,8,Standard,Standard,yes,pallet*; forklift; leak*; punctur*
+DMG-024,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,torn; pallet*
+DMG-025,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-026,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,1,Standard,Standard,yes,missing; dent*
+DMG-027,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,torn; spill*; pallet*
+DMG-028,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,damage*; leak*; pallet*
+DMG-029,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-030,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-031,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-032,Damage/Handling,Damage/Handling,yes,rules-lowconf,2,2,Standard,Standard,yes,broken
+DMG-033,Damage/Handling,Mispick/Order Error,no,rules-lowconf,1,1,Standard,Standard,yes,barcode*
+DMG-034,Damage/Handling,Theft/Security,no,rules-lowconf,2,1,Standard,Urgent,no,missing
+DMG-035,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,torn; leak*; pallet*
+DMG-036,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,damage*; crush*
+DMG-037,Damage/Handling,Damage/Handling,yes,rules,6,4,Standard,Standard,yes,torn; damage*; missing
+DMG-038,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,dent*
+DMG-039,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,dent*
+DMG-040,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-041,Damage/Handling,Theft/Security,no,rules-lowconf,2,1,Standard,Urgent,no,missing; pallet*
+DMG-042,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-043,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,broken; pallet*
+DMG-044,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,torn
+DMG-045,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,pallet*; crush*; crack*
+DMG-046,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-047,Damage/Handling,Cold Chain/Temperature,no,rules-lowconf,1,1,Standard,Urgent,no,power
+DMG-048,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,broken; crush*; pallet*
+DMG-049,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,torn; damage*
+DMG-050,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-051,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,damage*; unsellable; pallet*
+DMG-052,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-053,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,pallet*; crack*
+DMG-054,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crush*
+DMG-055,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,dent*; pallet*
+DMG-056,Damage/Handling,Damage/Handling,yes,rules-lowconf,2,2,Standard,Standard,yes,broken
+DMG-057,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,leak*
+DMG-058,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-059,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,wet; pallet*
+DMG-060,Damage/Handling,Delay/Transit,no,rules-lowconf,1,1,Standard,Standard,yes,driver*
+DMG-061,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,torn
+DMG-062,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,1,Standard,Standard,yes,torn; missing
+DMG-063,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,dent*; crush*
+DMG-064,Damage/Handling,Damage/Handling,yes,rules,8,8,Standard,Standard,yes,torn; forklift; crush*; pallet*
+THF-065,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-066,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-067,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-068,Theft/Security,Theft/Security,yes,rules-lowconf,1,1,Urgent,Urgent,yes,guard
+THF-069,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-070,Theft/Security,Damage/Handling,no,rules-lowconf,1,0,Urgent,Standard,no,short; pallet*
+THF-071,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-072,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-073,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-074,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-075,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-076,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,route
+THF-077,Theft/Security,Delay/Transit,no,rules-lowconf,2,2,Urgent,Standard,no,driver*; highway
+THF-078,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-079,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-080,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-081,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-082,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-083,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-084,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-085,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-086,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-087,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-088,Theft/Security,Theft/Security,yes,rules-lowconf,3,3,Urgent,Urgent,yes,stol*
+THF-089,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-090,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-091,Theft/Security,Damage/Handling,no,rules-lowconf,3,3,Urgent,Standard,no,torn
+THF-092,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-093,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing; pallet*
+THF-094,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing; forklift; power
+THF-095,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-096,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-097,Theft/Security,Cold Chain/Temperature,no,rules-lowconf,3,2,Urgent,Urgent,yes,driver*; reefer
+THF-098,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-099,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,driver*; missing; pallet*
+THF-100,Theft/Security,Theft/Security,yes,rules-lowconf,3,3,Urgent,Urgent,yes,padlock
+THF-101,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-102,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-103,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-104,Theft/Security,Damage/Handling,no,rules-lowconf,3,3,Urgent,Standard,no,ripped
+THF-105,Theft/Security,Damage/Handling,no,rules-lowconf,1,0,Urgent,Standard,no,pallet*; barcode*
+THF-106,Theft/Security,Theft/Security,yes,rules-lowconf,1,1,Urgent,Urgent,yes,guard
+THF-107,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-108,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-109,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-110,Theft/Security,Mispick/Order Error,no,rules-lowconf,2,2,Urgent,Standard,no,quantity; short
+THF-111,Theft/Security,Damage/Handling,no,rules-lowconf,2,2,Urgent,Standard,no,broken
+THF-112,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-113,Theft/Security,Damage/Handling,no,rules-lowconf,2,1,Urgent,Standard,no,broken; short
+THF-114,Theft/Security,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+THF-115,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-116,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-117,Theft/Security,Theft/Security,yes,rules-lowconf,3,3,Urgent,Urgent,yes,stol*
+THF-118,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-119,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing; pallet*
+THF-120,Theft/Security,Theft/Security,yes,rules-lowconf,2,1,Urgent,Urgent,yes,missing
+THF-121,Theft/Security,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+THF-122,Theft/Security,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+THF-123,Theft/Security,Damage/Handling,no,rules-lowconf,2,1,Urgent,Standard,no,driver*; broken
+THF-124,Theft/Security,Damage/Handling,no,rules-lowconf,1,0,Urgent,Standard,no,extra; pallet*
+CLD-065,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,8,8,Urgent,Urgent,yes,ice; reefer; temperature*
+CLD-066,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-067,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,2,2,Urgent,Urgent,yes,alarm; power
+CLD-068,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,2,2,Urgent,Urgent,yes,ice
+CLD-069,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,temperature*; power
+CLD-070,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,5,5,Urgent,Urgent,yes,ice; reefer
+CLD-071,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+CLD-072,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+CLD-073,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,alarm; pallet*; warm
+CLD-074,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,5,Urgent,Urgent,yes,thaw*; reefer; route
+CLD-075,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-076,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,3,3,Urgent,Standard,no,breakdown
+CLD-077,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-078,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,1,Urgent,Urgent,yes,stuck; refrigerat*
+CLD-079,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,temperature*; power
+CLD-080,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,freezer; alarm
+CLD-081,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,melted
+CLD-082,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+CLD-083,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,driver*; reefer
+CLD-084,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-085,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,driver*; reefer; pallet*
+CLD-086,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,1,Urgent,Urgent,yes,damage*; fridge; power
+CLD-087,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,reefer
+CLD-088,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,5,4,Urgent,Urgent,yes,thaw*; ice; pallet*
+CLD-089,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,6,6,Urgent,Urgent,yes,temperature*; melted
+CLD-090,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,4,1,Urgent,Standard,no,torn; reefer; short; pallet*
+CLD-091,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,freezer
+CLD-092,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,cold chain; pallet*
+CLD-093,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,9,9,Urgent,Urgent,yes,chiller; reefer; temperature*
+CLD-094,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-095,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,ice; warm
+CLD-096,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,1,Urgent,Urgent,yes,fridge; wrong; pallet*
+CLD-097,Cold Chain/Temperature,Delay/Transit,no,rules-lowconf,1,1,Urgent,Standard,no,driver*
+CLD-098,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,3,3,Urgent,Standard,no,wet; pallet*
+CLD-099,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-100,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,reefer; alarm
+CLD-101,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,freezer
+CLD-102,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,reefer; power
+CLD-103,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,temperature*
+CLD-104,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-105,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,reefer
+CLD-106,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,1,1,Urgent,Urgent,yes,sensor
+CLD-107,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,4,4,Urgent,Urgent,yes,freezer; power
+CLD-108,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,temperature*; pallet*; weather
+CLD-109,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-110,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,1,Urgent,Urgent,yes,broken; reefer
+CLD-111,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,1,1,Urgent,Standard,no,pallet*
+CLD-112,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,temperature*; pallet*
+CLD-113,Cold Chain/Temperature,Delay/Transit,no,rules,6,3,Urgent,Standard,no,driver*; reefer; stuck; breakdown
+CLD-114,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,route; sensor; warm
+CLD-115,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+CLD-116,Cold Chain/Temperature,Damage/Handling,no,rules-lowconf,3,0,Urgent,Standard,no,driver*; reefer; leak*
+CLD-117,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,chiller
+CLD-118,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,5,5,Urgent,Urgent,yes,freezer; ice
+CLD-119,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,reefer
+CLD-120,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,refrigerat*
+CLD-121,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules,8,8,Urgent,Urgent,yes,ice; reefer; temperature*
+CLD-122,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,2,Urgent,Urgent,yes,driver*; reefer
+CLD-123,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,freezer
+CLD-124,Cold Chain/Temperature,Cold Chain/Temperature,yes,rules-lowconf,3,3,Urgent,Urgent,yes,cold chain
+DLY-065,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Urgent,yes,route
+DLY-066,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Standard,no,route; stuck
+DLY-067,Delay/Transit,Damage/Handling,no,rules-lowconf,1,0,Urgent,Standard,no,driver*; pallet*
+DLY-068,Delay/Transit,Delay/Transit,yes,rules,6,6,Urgent,Standard,no,delay*; delayed
+DLY-069,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-070,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-071,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-072,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-073,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Urgent,yes,delay*
+DLY-074,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Urgent,Standard,no,stuck; highway
+DLY-075,Delay/Transit,Mispick/Order Error,no,rules-lowconf,2,2,Urgent,Standard,no,wrong
+DLY-076,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-077,Delay/Transit,Delay/Transit,yes,rules,6,6,Urgent,Standard,no,delay*; delayed
+DLY-078,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Standard,no,driver*
+DLY-079,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Urgent,yes,late
+DLY-080,Delay/Transit,Damage/Handling,no,rules-lowconf,3,3,Urgent,Standard,no,damage*
+DLY-081,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-082,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Standard,no,driver*
+DLY-083,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-084,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Urgent,Standard,no,late
+DLY-085,Delay/Transit,Delay/Transit,yes,rules-lowconf,4,4,Urgent,Standard,no,highway; traffic
+DLY-086,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-087,Delay/Transit,Delay/Transit,yes,rules-lowconf,2,1,Urgent,Urgent,yes,stuck; power
+DLY-088,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-089,Delay/Transit,Cold Chain/Temperature,no,rules-lowconf,3,3,Urgent,Urgent,yes,cold chain
+DLY-090,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-091,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-092,Delay/Transit,Delay/Transit,yes,rules-lowconf,2,2,Urgent,Standard,no,stuck
+DLY-093,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-094,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Urgent,Standard,no,
+DLY-095,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,traffic
+DLY-096,Delay/Transit,Damage/Handling,no,rules-lowconf,1,0,Standard,Standard,yes,forklift; late
+DLY-097,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-098,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-099,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-100,Delay/Transit,Damage/Handling,no,rules-lowconf,1,0,Standard,Standard,yes,driver*; pallet*
+DLY-101,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,delay*
+DLY-102,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-103,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-104,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-105,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-106,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-107,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,3,Standard,Standard,yes,traffic
+DLY-108,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-109,Delay/Transit,Delay/Transit,yes,rules-lowconf,4,4,Standard,Standard,yes,driver*; breakdown
+DLY-110,Delay/Transit,Damage/Handling,no,rules-lowconf,1,0,Standard,Standard,yes,late; pallet*
+DLY-111,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-112,Delay/Transit,Damage/Handling,no,rules-lowconf,4,3,Standard,Standard,yes,damage*; extra; pallet*
+DLY-113,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-114,Delay/Transit,Theft/Security,no,rules-lowconf,1,1,Standard,Urgent,no,guard
+DLY-115,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-116,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-117,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,route
+DLY-118,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-119,Delay/Transit,Delay/Transit,yes,rules-lowconf,2,2,Standard,Standard,yes,driver*; late
+DLY-120,Delay/Transit,Delay/Transit,yes,rules-lowconf,3,2,Standard,Standard,yes,delay*; short
+DLY-121,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+DLY-122,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-123,Delay/Transit,Delay/Transit,yes,rules-lowconf,1,1,Standard,Standard,yes,late
+DLY-124,Delay/Transit,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-065,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,2,Standard,Standard,yes,picker*; pallet*
+MSP-066,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-067,Mispick/Order Error,Damage/Handling,no,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+MSP-068,Mispick/Order Error,Mispick/Order Error,yes,rules,6,6,Standard,Standard,yes,sku; picker*
+MSP-069,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-070,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-071,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,quantity; wrong
+MSP-072,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,4,2,Standard,Standard,yes,packing slip; missing
+MSP-073,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-074,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,packing slip
+MSP-075,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,1,1,Standard,Standard,yes,quantity
+MSP-076,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-077,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-078,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,1,1,Standard,Standard,yes,quantity
+MSP-079,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-080,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,1,1,Standard,Standard,yes,extra
+MSP-081,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,mispick*; wrong
+MSP-082,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-083,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-084,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-085,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,2,Standard,Standard,yes,swapped; pallet*
+MSP-086,Mispick/Order Error,Mispick/Order Error,yes,rules,8,8,Standard,Standard,yes,wrong; picker*; pick list
+MSP-087,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-088,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-089,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,1,Standard,Standard,yes,driver*; wrong; pallet*
+MSP-090,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-091,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-092,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-093,Mispick/Order Error,Mispick/Order Error,yes,rules,5,3,Standard,Standard,yes,sku; missing; extra
+MSP-094,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,mispick*
+MSP-095,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-096,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-097,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-098,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; picker*
+MSP-099,Mispick/Order Error,Damage/Handling,no,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+MSP-100,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-101,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-102,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,mismatch*
+MSP-103,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; picker*
+MSP-104,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; picker*
+MSP-105,Mispick/Order Error,Mispick/Order Error,yes,rules,5,4,Standard,Standard,yes,packing slip; wrong; pallet*
+MSP-106,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,incorrect
+MSP-107,Mispick/Order Error,Mispick/Order Error,yes,rules,5,4,Standard,Standard,yes,wrong; picker*; pallet*
+MSP-108,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-109,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-110,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-111,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,1,Standard,Standard,yes,wrong; pallet*
+MSP-112,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-113,Mispick/Order Error,Mispick/Order Error,yes,rules,6,6,Standard,Standard,yes,wrong; picker*; barcode*
+MSP-114,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-115,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-116,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,picker*
+MSP-117,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,4,4,Standard,Standard,yes,picker*; short
+MSP-118,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-119,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,wrong; pick list
+MSP-120,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-121,Mispick/Order Error,Mispick/Order Error,yes,rules,5,5,Standard,Standard,yes,swapped; wrong
+MSP-122,Mispick/Order Error,Damage/Handling,no,rules-lowconf,0,0,Standard,Standard,yes,
+MSP-123,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,2,2,Standard,Standard,yes,wrong
+MSP-124,Mispick/Order Error,Mispick/Order Error,yes,rules-lowconf,3,3,Standard,Standard,yes,quantity; wrong
+DMG-065,Damage/Handling,Damage/Handling,yes,rules,8,8,Standard,Standard,yes,pallet*; forklift; crush*; ripped
+DMG-066,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-067,Damage/Handling,Damage/Handling,yes,rules-lowconf,2,2,Standard,Standard,yes,wet
+DMG-068,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-069,Damage/Handling,Damage/Handling,yes,rules,8,7,Standard,Standard,yes,driver*; dent*; leak*; pallet*; forklift
+DMG-070,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-071,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crack*
+DMG-072,Damage/Handling,Damage/Handling,yes,rules-lowconf,2,2,Standard,Standard,yes,broken
+DMG-073,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,wet; pallet*
+DMG-074,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-075,Damage/Handling,Delay/Transit,no,rules-lowconf,2,1,Standard,Standard,yes,stuck; pallet*
+DMG-076,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-077,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crack*
+DMG-078,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,torn; pallet*
+DMG-079,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,leak*
+DMG-080,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-081,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,broken; crush*; pallet*
+DMG-082,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,spill*; pallet*
+DMG-083,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,3,Standard,Standard,yes,driver*; punctur*; pallet*
+DMG-084,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,pallet*; crack*
+DMG-085,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,shatter*
+DMG-086,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,torn; leak*
+DMG-087,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,dent*; leak*
+DMG-088,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,1,Standard,Standard,yes,missing; dent*
+DMG-089,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,dent*; crush*; pallet*
+DMG-090,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,wet; crack*; pallet*
+DMG-091,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-092,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,dent*; pallet*
+DMG-093,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crush*
+DMG-094,Damage/Handling,Damage/Handling,yes,rules,6,4,Standard,Standard,yes,crack*; missing; punctur*
+DMG-095,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,leak*; pallet*
+DMG-096,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,broken; pallet*
+DMG-097,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,damage*
+DMG-098,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,broken; pallet*
+DMG-099,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,torn
+DMG-100,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-101,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-102,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,dent*
+DMG-103,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-104,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,leak*; crack*
+DMG-105,Damage/Handling,Damage/Handling,yes,rules-lowconf,2,2,Standard,Standard,yes,wet
+DMG-106,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,damage*
+DMG-107,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,torn; crush*
+DMG-108,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-109,Damage/Handling,Damage/Handling,yes,rules,7,7,Standard,Standard,yes,dent*; leak*; pallet*
+DMG-110,Damage/Handling,Damage/Handling,yes,rules-lowconf,0,0,Standard,Standard,yes,
+DMG-111,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,dent*
+DMG-112,Damage/Handling,Delay/Transit,no,rules-lowconf,2,1,Standard,Standard,yes,stuck; pallet*
+DMG-113,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,torn
+DMG-114,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crack*
+DMG-115,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crack*
+DMG-116,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,crush*
+DMG-117,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
+DMG-118,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,dent*; leak*
+DMG-119,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,damage*
+DMG-120,Damage/Handling,Damage/Handling,yes,rules-lowconf,3,3,Standard,Standard,yes,torn
+DMG-121,Damage/Handling,Damage/Handling,yes,rules,6,6,Standard,Standard,yes,torn; dent*
+DMG-122,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,crush*; pallet*
+DMG-123,Damage/Handling,Damage/Handling,yes,rules-lowconf,4,4,Standard,Standard,yes,torn; pallet*
+DMG-124,Damage/Handling,Damage/Handling,yes,rules-lowconf,1,1,Standard,Standard,yes,pallet*
